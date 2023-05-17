@@ -37,6 +37,13 @@ This page is just a bunch of status information about things I own/have.  I may 
 | PiHole Home | ![PiHole Home](https://status.mindlesstux.com/api/badge/40/status) | ![PiHole Home](https://status.mindlesstux.com/api/badge/40/ping) | ![PiHole Home](https://status.mindlesstux.com/api/badge/40/uptime) |
 | PiHole Dacentec | ![PiHole Dacentec](https://status.mindlesstux.com/api/badge/41/status) | ![PiHole Dacentec](https://status.mindlesstux.com/api/badge/41/ping) | ![PiHole Dacentec](https://status.mindlesstux.com/api/badge/41/uptime) |
 
+## Matrix Chat
+
+| Check | Status | Duration | Uptime |
+|:------|-------:|---------:|-------:|
+| Synapse - mindlesstux.com | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/status) | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/ping) | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/uptime) |
+| Synapse - tossaway.tech | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/status) | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/ping) | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/uptime) |
+
 # Media Services
 
 ## Plex
