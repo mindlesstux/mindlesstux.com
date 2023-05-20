@@ -26,8 +26,10 @@
             title="{{ site.data.locales[include.lang].copyright.verbose }}"
           >
             {{- site.data.locales[include.lang].copyright.brief -}}
+            {{ '  Site build date: ' }}{{ site.time }}
           </span>
         {% endif %}
+
       </p>
     </div>
   </div>

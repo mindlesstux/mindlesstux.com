@@ -22,7 +22,7 @@ permalink: /feed.xml
   <icon>{{ site.baseurl }}/assets/img/favicons/favicon.ico</icon>
   <logo>{{ site.baseurl }}/assets/img/favicons/favicon-96x96.png</logo>
 
-{% for post in site.posts limit: 5 %}
+{% for post in site.posts limit: 100 %}
   {% assign post_absolute_url = post.url | absolute_url %}
   <entry>
     <title>{{ post.title }}</title>
@@ -50,7 +50,7 @@ permalink: /feed.xml
   {% else %}
     <summary>
       {% include no-linenos.html content=post.content %}
-      {{ content  | strip_html | truncate: 400 }}
+      {{ content | split: "<!--readmore-->" | first | strip_html }}
     </summary>
   {% endif %}
 

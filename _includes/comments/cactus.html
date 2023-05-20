@@ -1,0 +1,39 @@
+<!--
+    Cactus Comments!
+        Trying to make this work...
+-->
+
+<script src="https://latest.cactus.chat/cactus.js" type="text/javascript"></script>
+<link href="https://latest.cactus.chat/style.css" rel="stylesheet" type="text/css"></link>
+
+{% if site.comments.cactus.guestPostingEnabled and site.comments.cactus.guestPostingEnabled != "" and site.comments.cactus.guestPostingEnabled != nil %}
+{% else %}
+  <blockquote class="prompt-warning"><div>
+    <p>Guest posting is disabled. Please login to your matrix chat to comment.</p>
+  </div></blockquote>
+{% endif %}
+
+{% capture local_room %}#comments_{{ site.comments.cactus.siteName }}_{{ page.path | downcase | replace: "_posts/", "-posts--" }}:{{ site.comments.cactus.serverName }}{% endcapture%}
+{% if site.comments.cactus.showRoom and site.comments.cactus.showRoom != "" and site.comments.cactus.showRoom != nil %}
+<blockquote class="prompt-info"><div>
+  <p>You may also join the room directly: <a href="https://matrix.to/#/{{ local_room | url_encode }}>">{{ local_room }}</a></p>
+</div></blockquote>
+{% endif %}
+
+<div id="comment-section"></div><script>
+initComments({
+  node: document.getElementById("comment-section"),
+  defaultHomeserverUrl: "https://matrix.cactus.chat:8448",
+  serverName: "{{ site.comments.cactus.serverName }}",
+  siteName: "{{ site.comments.cactus.siteName }}",
+  commentSectionId: '{{ page.path | downcase | replace: "_posts/", "-posts--" }}',
+  guestPostingEnabled: {{ site.comments.cactus.guestPostingEnabled }},
+  loginEnabled: {{ site.comments.cactus.loginEnabled }}
+})
+</script>
+
+<!--
+    room: {{ local_room }}
+    
+    *END Cactus Comments
+-->

@@ -63,19 +63,22 @@ refactor: true
           <h1 class="card-title my-2 mt-md-0">
             {{ post.title }}
           </h1>
+          <div>
+            <!-- posted date -->
+            <i class="far fa-calendar fa-fw me-1"></i>
+            {% include datetime.html date=post.date lang=lang %}
+          </div>
 
           <div class="card-text post-content mt-0 mb-2">
-            <p>
               {% include no-linenos.html content=post.content %}
-              {{ content | markdownify | strip_html | truncate: 200 | escape }}
-            </p>
+              <!-- pre-content -->
+              {{ post.content | split: "<!--readmore-->" | first | strip_html }}
+              <!-- post-content -->
           </div>
 
           <div class="post-meta flex-grow-1 d-flex align-items-end">
             <div class="me-auto">
-              <!-- posted date -->
-              <i class="far fa-calendar fa-fw me-1"></i>
-              {% include datetime.html date=post.date lang=lang %}
+
 
               <!-- categories -->
               {% if post.categories.size > 0 %}

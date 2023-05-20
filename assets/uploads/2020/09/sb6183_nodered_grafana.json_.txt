@@ -1,0 +1,537 @@
+[
+    {
+        "id": "91a0acfd.f9bd5",
+        "type": "tab",
+        "label": "Arris SB6183 Cable Modem Status",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "58d5cd01.3b2fe4",
+        "type": "inject",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "repeat": "300",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "5",
+        "x": 150,
+        "y": 60,
+        "wires": [
+            [
+                "a9a3eee0.1350f8",
+                "f18564d3.35a6f"
+            ]
+        ]
+    },
+    {
+        "id": "e4a8aeda.effca",
+        "type": "http request",
+        "z": "91a0acfd.f9bd5",
+        "name": "SB6183",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": false,
+        "url": "http://192.168.100.1/",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 560,
+        "y": 60,
+        "wires": [
+            [
+                "341a7dc4.956e8a"
+            ]
+        ]
+    },
+    {
+        "id": "1f35ba.2b71e247",
+        "type": "debug",
+        "z": "91a0acfd.f9bd5",
+        "name": "SB6183 Troubleshoot",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 380,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "951e1362.4675b",
+        "type": "html",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "property": "payload",
+        "outproperty": "payload",
+        "tag": "table",
+        "ret": "html",
+        "as": "multi",
+        "x": 190,
+        "y": 120,
+        "wires": [
+            [
+                "1f35ba.2b71e247",
+                "4a61f2e3.755a64"
+            ]
+        ]
+    },
+    {
+        "id": "a9a3eee0.1350f8",
+        "type": "function",
+        "z": "91a0acfd.f9bd5",
+        "name": "Set User Agent String",
+        "func": "msg.timestamp = msg.payload;\nmsg.headers = {};\n//msg.headers['user-agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36';\nmsg.headers['user-agent'] = 'NodeRed/1.0.6';\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 380,
+        "y": 60,
+        "wires": [
+            [
+                "e4a8aeda.effca"
+            ]
+        ]
+    },
+    {
+        "id": "96c7501a.832908",
+        "type": "html",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "property": "payload",
+        "outproperty": "payload",
+        "tag": "tr",
+        "ret": "html",
+        "as": "multi",
+        "x": 530,
+        "y": 160,
+        "wires": [
+            [
+                "975b9197.3dd9e8"
+            ]
+        ]
+    },
+    {
+        "id": "4a61f2e3.755a64",
+        "type": "switch",
+        "z": "91a0acfd.f9bd5",
+        "name": "Up or Down",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "Downstream Bonded",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "Upstream Bonded",
+                "vt": "str"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 210,
+        "y": 160,
+        "wires": [
+            [
+                "a1379300.d70068"
+            ],
+            [
+                "cc5156d.09bb728"
+            ]
+        ]
+    },
+    {
+        "id": "26e5b79f.7efad8",
+        "type": "switch",
+        "z": "91a0acfd.f9bd5",
+        "name": "Data Only",
+        "property": "payload",
+        "propertyType": "msg",
+        "rules": [
+            {
+                "t": "cont",
+                "v": "th",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "Modulation",
+                "vt": "str"
+            },
+            {
+                "t": "cont",
+                "v": "US Channel Type",
+                "vt": "str"
+            },
+            {
+                "t": "else"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 4,
+        "x": 120,
+        "y": 260,
+        "wires": [
+            [],
+            [],
+            [],
+            [
+                "c9a1a9b4.e9d81"
+            ]
+        ]
+    },
+    {
+        "id": "c9a1a9b4.e9d81",
+        "type": "html",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "property": "payload",
+        "outproperty": "payload",
+        "tag": "td",
+        "ret": "html",
+        "as": "single",
+        "x": 330,
+        "y": 260,
+        "wires": [
+            [
+                "4c8437fa.b0dd88",
+                "6a3f56c1.0836d8"
+            ]
+        ]
+    },
+    {
+        "id": "6a3f56c1.0836d8",
+        "type": "debug",
+        "z": "91a0acfd.f9bd5",
+        "name": "TDs",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 330,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "a1379300.d70068",
+        "type": "change",
+        "z": "91a0acfd.f9bd5",
+        "name": "Set Down",
+        "rules": [
+            {
+                "t": "set",
+                "p": "direction",
+                "pt": "msg",
+                "to": "downstream",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 380,
+        "y": 160,
+        "wires": [
+            [
+                "96c7501a.832908"
+            ]
+        ]
+    },
+    {
+        "id": "cc5156d.09bb728",
+        "type": "change",
+        "z": "91a0acfd.f9bd5",
+        "name": "Set Up",
+        "rules": [
+            {
+                "t": "set",
+                "p": "direction",
+                "pt": "msg",
+                "to": "upstream",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 370,
+        "y": 200,
+        "wires": [
+            [
+                "96c7501a.832908"
+            ]
+        ]
+    },
+    {
+        "id": "4c8437fa.b0dd88",
+        "type": "function",
+        "z": "91a0acfd.f9bd5",
+        "name": "SQL Load",
+        "func": "cm_timestamp = msg.timestamp;\ncm_timestamp = (cm_timestamp-(cm_timestamp%1000))/1000;\n\nif (msg.direction == \"downstream\") {\n    cm_channel = msg.payload[0];\n    cm_lockstatus = msg.payload[1];\n    cm_modulation = msg.payload[2];\n    cm_channelid = msg.payload[3];\n    // Remove the \" Hz\"\n    cm_frequency = msg.payload[4];\n    cm_frequency = cm_frequency.substring(0, cm_frequency.length-3);\n    // Remove the \" dBmV\"\n    cm_power = msg.payload[5];\n    cm_power = cm_power.substring(0, cm_power.length-4);\n    // Remove the \"dB\"\n    cm_snr = msg.payload[6];\n    cm_snr = cm_snr.substring(0, cm_snr.length-3);\n    cm_corrected = msg.payload[7];\n    cm_uncorrectables = msg.payload[8];\n    \n    sql = \"INSERT INTO cable_modem_downstream (timestamp,channel,channelid,lockstatus,modulation,frequency,power,snr,corrected,uncorrectables) VALUES(\" + cm_timestamp + \", \" + cm_channel + \", \" + cm_channelid + \", '\" + cm_lockstatus + \"', '\" + cm_modulation + \"', \" + cm_frequency + \", \" + cm_power + \", \" + cm_snr + \", \" + cm_corrected + \", \" + cm_uncorrectables + \");\";\n} else if (msg.direction == \"upstream\") {\n    cm_channel = msg.payload[0];\n    cm_lockstatus = msg.payload[1];\n    cm_channeltype = msg.payload[2];\n    cm_channelid = msg.payload[3];\n    cm_symbolrate = msg.payload[4];\n    cm_symbolrate = cm_symbolrate.substring(0, cm_symbolrate.length-9);\n    cm_frequency = msg.payload[5];\n    cm_frequency = cm_frequency.substring(0, cm_frequency.length-3);\n    cm_power = msg.payload[6];\n    cm_power = cm_power.substring(0, cm_power.length-5);\n    sql = \"INSERT INTO cable_modem_upstream (timestamp,channel,channelid,lockstatus,channeltype,symbolrate,frequency,power) VALUES(\" + cm_timestamp + \", \" + cm_channel + \", \" + cm_channelid + \", '\" + cm_lockstatus + \"', '\" + cm_channeltype + \"', \" + cm_symbolrate + \", \" + cm_frequency + \", \" + cm_power + \");\"\n} else {\n    sql = \"SELECT NOW()\";\n}\n\nmsg = {};\nmsg.topic = sql;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 500,
+        "y": 260,
+        "wires": [
+            [
+                "18706122.d4ebd7",
+                "5d713bf7.61b4dc"
+            ]
+        ]
+    },
+    {
+        "id": "18706122.d4ebd7",
+        "type": "debug",
+        "z": "91a0acfd.f9bd5",
+        "name": "SQL",
+        "active": false,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "true",
+        "targetType": "full",
+        "x": 490,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "5d713bf7.61b4dc",
+        "type": "mysql",
+        "z": "91a0acfd.f9bd5",
+        "mydb": "92719932.2d2678",
+        "name": "",
+        "x": 660,
+        "y": 260,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "946f4f02.648888",
+        "type": "http request",
+        "z": "91a0acfd.f9bd5",
+        "name": "HealthChecks.io",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": false,
+        "url": "https://hc-ping.com/00000000-0000-0000-0000-000000000000/start",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 160,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "de603e32.796718",
+        "type": "link in",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [
+            "975b9197.3dd9e8"
+        ],
+        "x": 35,
+        "y": 260,
+        "wires": [
+            [
+                "26e5b79f.7efad8"
+            ]
+        ]
+    },
+    {
+        "id": "975b9197.3dd9e8",
+        "type": "link out",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [
+            "de603e32.796718"
+        ],
+        "x": 615,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "2398ad65.bcb4ba",
+        "type": "function",
+        "z": "91a0acfd.f9bd5",
+        "name": "Set User Agent String",
+        "func": "msg.timestamp = msg.payload;\nmsg.payload = {};\nmsg.headers = {};\n//msg.headers['user-agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36';\nmsg.headers['user-agent'] = 'NodeRed/1.0.6';\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 180,
+        "y": 420,
+        "wires": [
+            [
+                "946f4f02.648888"
+            ]
+        ]
+    },
+    {
+        "id": "402d2d61.6e91cc",
+        "type": "http request",
+        "z": "91a0acfd.f9bd5",
+        "name": "HealthChecks.io",
+        "method": "GET",
+        "ret": "txt",
+        "paytoqs": false,
+        "url": "https://hc-ping.com/00000000-0000-0000-0000-000000000000",
+        "tls": "",
+        "persist": false,
+        "proxy": "",
+        "authType": "",
+        "x": 500,
+        "y": 460,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "edd848fb.bcd128",
+        "type": "function",
+        "z": "91a0acfd.f9bd5",
+        "name": "Set User Agent String",
+        "func": "msg.timestamp = msg.payload;\nmsg.payload = {};\nmsg.headers = {};\n//msg.headers['user-agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36';\nmsg.headers['user-agent'] = 'NodeRed/1.0.6';\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "x": 520,
+        "y": 420,
+        "wires": [
+            [
+                "402d2d61.6e91cc"
+            ]
+        ]
+    },
+    {
+        "id": "1c81fa85.00658d",
+        "type": "link in",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [
+            "f18564d3.35a6f"
+        ],
+        "x": 55,
+        "y": 420,
+        "wires": [
+            [
+                "2398ad65.bcb4ba"
+            ]
+        ]
+    },
+    {
+        "id": "d1ed0e2a.ddaff",
+        "type": "link in",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [
+            "341a7dc4.956e8a"
+        ],
+        "x": 395,
+        "y": 420,
+        "wires": [
+            [
+                "edd848fb.bcd128"
+            ]
+        ]
+    },
+    {
+        "id": "f18564d3.35a6f",
+        "type": "link out",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [
+            "1c81fa85.00658d"
+        ],
+        "x": 255,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "341a7dc4.956e8a",
+        "type": "link out",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [
+            "d1ed0e2a.ddaff",
+            "e0ff726f.21083"
+        ],
+        "x": 655,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "cccbd4db.cca3",
+        "type": "link in",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [],
+        "x": -20,
+        "y": 160,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "e0ff726f.21083",
+        "type": "link in",
+        "z": "91a0acfd.f9bd5",
+        "name": "",
+        "links": [
+            "341a7dc4.956e8a"
+        ],
+        "x": 95,
+        "y": 120,
+        "wires": [
+            [
+                "951e1362.4675b"
+            ]
+        ]
+    },
+    {
+        "id": "149aa1a5.acf8e6",
+        "type": "comment",
+        "z": "91a0acfd.f9bd5",
+        "name": "HealthChecks.io Start",
+        "info": "",
+        "x": 180,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "dd7db74.41c6cc8",
+        "type": "comment",
+        "z": "91a0acfd.f9bd5",
+        "name": "HealthChecks.io Stop",
+        "info": "",
+        "x": 520,
+        "y": 380,
+        "wires": []
+    },
+    {
+        "id": "92719932.2d2678",
+        "type": "MySQLdatabase",
+        "z": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "db": "nodered",
+        "tz": ""
+    }
+]
