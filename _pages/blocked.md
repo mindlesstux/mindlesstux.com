@@ -1,6 +1,6 @@
 ---
 title: CloudFlare Blocking
-layout: page-nosidebar
+layout: page
 permalink: /cloudflare-blocking
 ---
 
@@ -55,7 +55,7 @@ This is to drop country and ASN traffic that I find have been causing problems.
 (ip.geoip.asnum in {13238 395954 9009 8100 207651 212238 203020 36352 201011 30542 201011 64249 15969 13737 60068 33576})
 ```
 
-If source is from one of the following counties or from the Tor network the traffic will be challenged.
+If source is from one of the following countries or from the Tor network the traffic will be challenged.
 - China
 - Iran
 - Iraq
