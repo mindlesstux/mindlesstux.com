@@ -33,6 +33,7 @@ comments:
     loginEnabled: true
     showRoom: true
 ```
+{: file="_config.yml" }
 
 The next thing they said was to toss two linkes into a custom header file, I skipped this in favor of my next bit.
 
@@ -81,5 +82,6 @@ initComments({
     *END Cactus Comments
 -->
 {% endraw %}```
+{: file="_includes/comments/cactus.html" }
 
 Basically did the header includes (I know probably bad form for html), and setup all the comment bits.  I made use of my new options and throw up a warning box if guest comments are disabled.  I also have a handy link to the matrix chat room that acts as the storage space for the comments.  I also made the comment section id a bit more understandable instead of just a url.
