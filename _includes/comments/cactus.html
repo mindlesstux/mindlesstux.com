@@ -16,7 +16,7 @@
 {% capture local_room %}#comments_{{ site.comments.cactus.siteName }}_{{ page.path | downcase | replace: "_posts/", "-posts--" }}:{{ site.comments.cactus.serverName }}{% endcapture%}
 {% if site.comments.cactus.showRoom and site.comments.cactus.showRoom != "" and site.comments.cactus.showRoom != nil %}
 <blockquote class="prompt-info"><div>
-  <p>You may also join the room directly: <a href="https://matrix.to/#/{{ local_room | url_encode }}>">{{ local_room }}</a></p>
+  <p>You may also join the room directly: <a href="https://matrix.to/#/{{ local_room | url_encode }}">{{ local_room }}</a></p>
 </div></blockquote>
 {% endif %}
 
@@ -34,6 +34,6 @@ initComments({
 
 <!--
     room: {{ local_room }}
-    
+
     *END Cactus Comments
 -->
