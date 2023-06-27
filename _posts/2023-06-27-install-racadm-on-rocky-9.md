@@ -4,8 +4,8 @@ date: '2023-05-17T10:00:00-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:
-categories: Linux
-tags: linux, idrac
+categories: [Linux]
+tags: [linux, idrac]
 ---
 I just recently put some effort into rebuilding my server(s) host os for my VMs.  One of the things I dreaded was loosing racadm just in case I needed it when upgradeing from [CentOS](https://www.centos.org/) 7 to [Rocky LInux](https://rockylinux.org/) 9.  Spent some time going down the wrong rabbit holes among other things.  I ended up stumbling on a [posting/faq(?)](https://www.privex.io/articles/install-idrac-tools-racadm-ubuntu-debian/) to install racadm on ubuntu.  In it held some keys to getting what I want done.
 
