@@ -1,7 +1,7 @@
 ---
 title: 'Part 5: Bonus!  Use ZeroTier as mobile VPN.'
 date: '2018-12-07T22:19:54-05:00'
-lastmod: '2018-12-07T22:19:54-05:00'
+last_modified_at: '2018-12-07T22:19:54-05:00'
 author: MindlessTux
 layout: post
 series:

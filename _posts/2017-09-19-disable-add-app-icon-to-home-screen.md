@@ -1,7 +1,7 @@
 ---
 title: 'Disable Add App Icon To Home Screen'
 date: '2017-09-19T15:34:24-04:00'
-lastmod: '2017-09-19T15:34:24-04:00'
+last_modified_at: '2017-09-19T15:34:24-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

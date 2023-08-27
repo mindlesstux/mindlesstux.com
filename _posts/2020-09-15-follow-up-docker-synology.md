@@ -1,7 +1,7 @@
 ---
 title: 'Follow up: Docker + Synology'
 date: '2020-09-15T21:24:52-04:00'
-lastmod: '2020-09-15T21:24:52-04:00'
+last_modified_at: '2020-09-15T21:24:52-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

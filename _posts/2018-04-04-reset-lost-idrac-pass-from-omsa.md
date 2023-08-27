@@ -1,7 +1,7 @@
 ---
 title: 'Reset lost iDRAC pass from OMSA'
 date: '2018-04-04T19:35:28-04:00'
-lastmod: '2018-04-04T19:35:28-04:00'
+last_modified_at: '2018-04-04T19:35:28-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

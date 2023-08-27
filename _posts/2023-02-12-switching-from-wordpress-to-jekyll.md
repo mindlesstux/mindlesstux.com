@@ -1,7 +1,7 @@
 ---
 title: 'Switching from Wordpress to Jekyll'
 date: '2023-02-12T20:00:00-04:00'
-lastmod: '2023-02-12T20:00:00-04:00'
+last_modified_at: '2023-02-12T20:00:00-04:00'
 author: MindlessTux
 layout: post
 #Reference_URL:

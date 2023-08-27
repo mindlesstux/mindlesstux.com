@@ -1,7 +1,7 @@
 ---
 title: 'Part 2: Build the router VM(s)'
 date: '2018-09-23T22:02:19-04:00'
-lastmod: '2018-09-23T22:02:19-04:00'
+last_modified_at: '2018-09-23T22:02:19-04:00'
 author: MindlessTux
 layout: post
 series:

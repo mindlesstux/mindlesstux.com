@@ -1,7 +1,7 @@
 ---
 title: 'Monitoring my cable modem signal levels for problems'
 date: '2020-09-11T20:33:51-04:00'
-lastmod: '2020-09-11T20:33:51-04:00'
+last_modified_at: '2020-09-11T20:33:51-04:00'
 author: MindlessTux
 layout: post
 series:

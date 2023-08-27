@@ -1,7 +1,7 @@
 ---
 title: 'Nexus 6P: Turn on WiFi Automatically'
 date: '2017-09-19T13:52:41-04:00'
-lastmod: '2017-09-19T13:52:41-04:00'
+last_modified_at: '2017-09-19T13:52:41-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

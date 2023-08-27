@@ -1,7 +1,7 @@
 ---
 title: 'Xbox One Audio Issue'
 date: '2018-08-16T20:37:40-04:00'
-lastmod: '2018-08-16T20:37:40-04:00'
+last_modified_at: '2018-08-16T20:37:40-04:00'
 author: MindlessTux
 layout: post
 categories: [XBox]

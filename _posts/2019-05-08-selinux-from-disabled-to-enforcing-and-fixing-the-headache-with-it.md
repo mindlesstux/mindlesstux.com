@@ -1,7 +1,7 @@
 ---
 title: 'SELinux &#8211; From Disabled to Enforcing and fixing the headache with it'
 date: '2019-05-08T17:24:47-04:00'
-lastmod: '2019-05-08T17:24:47-04:00'
+last_modified_at: '2019-05-08T17:24:47-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

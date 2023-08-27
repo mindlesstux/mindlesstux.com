@@ -1,7 +1,7 @@
 ---
 title: 'Series about ZeroTier'
 date: '2018-09-19T22:12:20-04:00'
-lastmod: '2018-09-19T22:12:20-04:00'
+last_modified_at: '2018-09-19T22:12:20-04:00'
 author: MindlessTux
 layout: post
 series:

@@ -1,7 +1,7 @@
 ---
 title: 'Reducing swap partition on lvm on ubuntu server'
 date: '2018-01-06T02:46:48-05:00'
-lastmod: '2018-01-06T02:46:48-05:00'
+last_modified_at: '2018-01-06T02:46:48-05:00'
 author: MindlessTux
 layout: post
 Reference_URL:

@@ -1,7 +1,7 @@
 ---
 title: Observium
 date: '2016-10-21T02:39:47-04:00'
-lastmod: '2016-10-21T02:39:47-04:00'
+last_modified_at: '2016-10-21T02:39:47-04:00'
 author: MindlessTux
 layout: post
 categories: [Monitoring, Observium]

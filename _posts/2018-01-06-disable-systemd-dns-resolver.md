@@ -1,7 +1,7 @@
 ---
 title: 'Disable Systemd DNS resolver'
 date: '2018-01-06T02:13:22-05:00'
-lastmod: '2018-01-06T02:13:22-05:00'
+last_modified_at: '2018-01-06T02:13:22-05:00'
 author: MindlessTux
 layout: post
 Reference_URL:

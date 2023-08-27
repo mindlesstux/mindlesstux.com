@@ -1,7 +1,7 @@
 ---
 title: 'Fix for ping socket operation not permitted'
 date: '2022-01-15T00:27:01-05:00'
-lastmod: '2022-01-15T00:27:01-05:00'
+last_modified_at: '2022-01-15T00:27:01-05:00'
 author: MindlessTux
 layout: post
 Reference_URL:
