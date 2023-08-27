@@ -1,6 +1,7 @@
 ---
 title: 'Install RACADM on Rocky 9'
 date: '2023-06-27T09:00:00-04:00'
+lastmod: '2023-06-27T09:00:00-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

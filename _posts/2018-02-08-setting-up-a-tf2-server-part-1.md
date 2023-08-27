@@ -1,6 +1,7 @@
 ---
 title: 'Setting up a TF2 server &#8211; Part 1'
 date: '2018-02-08T20:32:16-05:00'
+lastmod: '2018-02-08T20:32:16-05:00'
 author: MindlessTux
 layout: post
 series:

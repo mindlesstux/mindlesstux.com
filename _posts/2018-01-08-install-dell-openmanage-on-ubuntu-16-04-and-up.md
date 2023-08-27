@@ -1,6 +1,7 @@
 ---
 title: 'Install Dell OpenManage on Ubuntu 16.04 (and up?)'
 date: '2018-01-08T23:36:13-05:00'
+lastmod: '2018-01-08T23:36:13-05:00'
 author: MindlessTux
 layout: post
 Reference_URL:

@@ -1,6 +1,7 @@
 ---
 title: 'Shitty Idea: Change webserver storage up'
 date: '2018-01-28T13:10:49-05:00'
+lastmod: '2018-01-28T13:10:49-05:00'
 author: MindlessTux
 layout: post
 categories: ["Shitty Ideas"]

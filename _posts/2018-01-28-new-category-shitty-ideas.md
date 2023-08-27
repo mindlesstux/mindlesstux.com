@@ -1,6 +1,7 @@
 ---
 title: 'New Category: Shitty Ideas'
 date: '2018-01-28T13:08:35-05:00'
+lastmod: '2018-01-28T13:08:35-05:00'
 author: MindlessTux
 layout: post
 categories: ["Shitty Ideas"]

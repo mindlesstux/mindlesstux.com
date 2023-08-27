@@ -1,6 +1,7 @@
 ---
 title: 'Fix for Java 8+ &#038; iDRAC 6 Connection Failed'
 date: '2018-06-21T18:00:23-04:00'
+lastmod: '2018-06-21T18:00:23-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

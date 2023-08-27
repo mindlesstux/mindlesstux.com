@@ -1,6 +1,7 @@
 ---
 title: 'Updating NodeJS'
 date: '2023-05-21T000:45:00-04:00'
+lastmod: '2023-05-21T000:45:00-04:00'
 author: MindlessTux
 layout: post
 Reference_URL: https://github.com/nodesource/distributions/issues/1157

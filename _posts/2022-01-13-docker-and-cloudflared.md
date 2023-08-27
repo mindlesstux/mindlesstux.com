@@ -1,6 +1,7 @@
 ---
 title: 'Docker and cloudflared'
 date: '2022-01-13T01:53:02-05:00'
+lastmod: '2022-01-13T01:53:02-05:00'
 author: MindlessTux
 layout: post
 categories: [Cloudflare]

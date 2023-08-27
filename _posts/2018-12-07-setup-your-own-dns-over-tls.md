@@ -1,6 +1,7 @@
 ---
 title: 'Setup your own DNS over TLS'
 date: '2018-12-07T19:37:46-05:00'
+lastmod: '2018-12-07T19:37:46-05:00'
 author: MindlessTux
 layout: post
 Reference_URL:

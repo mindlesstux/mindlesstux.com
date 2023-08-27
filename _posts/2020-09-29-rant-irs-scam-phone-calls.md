@@ -1,6 +1,7 @@
 ---
 title: 'Rant: IRS Scam Phone Calls'
 date: '2020-09-29T13:48:34-04:00'
+lastmod: '2020-09-29T13:48:34-04:00'
 author: MindlessTux
 layout: post
 enclosure:

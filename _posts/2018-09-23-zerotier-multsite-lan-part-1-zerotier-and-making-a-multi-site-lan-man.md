@@ -1,6 +1,7 @@
 ---
 title: 'Part 1: ZeroTier and making a multi-site LAN (MAN?)'
 date: '2018-09-23T22:00:07-04:00'
+lastmod: '2018-09-23T22:00:07-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

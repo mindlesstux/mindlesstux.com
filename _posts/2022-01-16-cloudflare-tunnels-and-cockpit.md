@@ -1,6 +1,7 @@
 ---
 title: 'Cloudflare tunnels and Cockpit'
 date: '2022-01-16T21:54:23-05:00'
+lastmod: '2022-01-16T21:54:23-05:00'
 author: MindlessTux
 layout: post
 Reference_URL:

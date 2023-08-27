@@ -1,6 +1,7 @@
 ---
 title: 'Part 3: Setup router to use the routing VM(s)'
 date: '2018-09-23T22:04:29-04:00'
+lastmod: '2018-09-23T22:04:29-04:00'
 author: MindlessTux
 layout: post
 series:

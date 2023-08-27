@@ -1,6 +1,7 @@
 ---
 title: 'Switching to Mastodon'
 date: '2023-05-17T012:00:00-04:00'
+lastmod: '2023-05-17T012:00:00-04:00'
 author: MindlessTux
 layout: post
 Reference_URL:

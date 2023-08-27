@@ -1,6 +1,7 @@
 ---
 title: 'My tweak to the &#8216;Blogstream&#8217; wordpress theme'
 date: '2022-01-15T02:08:15-05:00'
+lastmod: '2022-01-15T02:08:15-05:00'
 author: MindlessTux
 layout: post
 Reference_URL:
