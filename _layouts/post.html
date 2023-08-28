@@ -85,6 +85,20 @@ tail_includes:
 
 <div class="post-tail-wrapper text-muted">
 
+  <!-- reference urls -->
+  {% if page.Reference_URL.size > 0 %}
+  <div class="post-tags">
+    Reference URLs:<br />
+    {% for refurl in page.Reference_URL %}
+    <i class="fa fa-arrow-right fa-fw mr-1"></i>
+      <a href="{{- refurl -}}"
+          class="post-tag no-text-decoration" target="_blank">
+        {{- refurl -}}
+      </a><br />
+      {% endfor %}
+  </div><br />
+  {% endif %}
+
   <!-- categories -->
   {% if page.categories.size > 0 %}
   <div class="post-meta mb-3">
