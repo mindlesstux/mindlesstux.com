@@ -41,8 +41,8 @@ This page is just a bunch of status information about things I own/have.  I may 
 
 | Check | Status | Duration | Uptime |
 |:------|-------:|---------:|-------:|
-| Synapse - mindlesstux.com | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/status) | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/ping) | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/uptime) |
-| Synapse - tossaway.tech | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/status) | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/ping) | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/uptime) |
+| [Synapse - mindlesstux.com](https://matrix.mindlesstux.com/_matrix/static/) | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/status) | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/ping) | ![Synapse - mindlesstux.com](https://status.mindlesstux.com/api/badge/10/uptime) |
+| [Synapse - tossaway.tech](https://matrix.tossaway.tech/_matrix/static/) | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/status) | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/ping) | ![Synapse - tossaway.tech](https://status.mindlesstux.com/api/badge/11/uptime) |
 
 # Media Services
 
@@ -56,5 +56,11 @@ This page is just a bunch of status information about things I own/have.  I may 
 ## The ARR's
 
 | Check | Status | Duration | Uptime |
-|:------|-------:|---------:|-------:|
-| Coming Soon| | | |
+| Sonarr | ![Sonarr](https://status.mindlesstux.com/api/badge/32/status) | ![Sonarr](https://status.mindlesstux.com/api/badge/32/ping) | ![Sonarr](https://status.mindlesstux.com/api/badge/32/uptime) |
+| Sonarr #2| ![Sonarr #2](https://status.mindlesstux.com/api/badge/33/status) | ![Sonarr #2](https://status.mindlesstux.com/api/badge/33/ping) | ![Sonarr #2](https://status.mindlesstux.com/api/badge/33/uptime) |
+| Radarr | ![Radarr](https://status.mindlesstux.com/api/badge/29/status) | ![Radarr](https://status.mindlesstux.com/api/badge/29/ping) | ![Radarr](https://status.mindlesstux.com/api/badge/29/uptime) |
+| Lidarr | ![Lidarr](https://status.mindlesstux.com/api/badge/25/status) | ![Lidarr](https://status.mindlesstux.com/api/badge/25/ping) | ![Lidarr](https://status.mindlesstux.com/api/badge/25/uptime) |
+| Prowlarr | ![Prowlarr](https://status.mindlesstux.com/api/badge/28/status) | ![Prowlarr](https://status.mindlesstux.com/api/badge/28/ping) | ![Prowlarr](https://status.mindlesstux.com/api/badge/28/uptime) |
+| Readarr | ![Sonarr](https://status.mindlesstux.com/api/badge/30/status) | ![Readarr](https://status.mindlesstux.com/api/badge/30/ping) | ![Readarr](https://status.mindlesstux.com/api/badge/30/uptime) |
+| Readarr #2 | ![Readarr #2](https://status.mindlesstux.com/api/badge/31/status) | ![Readarr #2](https://status.mindlesstux.com/api/badge/31/ping) | ![Readarr #2](https://status.mindlesstux.com/api/badge/31/uptime) |
+| PodGrab | ![PodGrab](https://status.mindlesstux.com/api/badge/27/status) | ![PodGrab](https://status.mindlesstux.com/api/badge/27/ping) | ![PodGrab](https://status.mindlesstux.com/api/badge/27/uptime) |
