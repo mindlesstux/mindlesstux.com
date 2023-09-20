@@ -1,6 +1,5 @@
 ---
-layout: page
-refactor: true
+layout: default
 ---
 
 {% include lang.html %}
@@ -40,10 +39,10 @@ refactor: true
   {% endfor %}
 {% endif %}
 
-<div id="post-list">
+{% capture content %}
   {% for post in posts %}
-    <a href="{{ post.url | relative_url }}" class="card-wrapper">
-      <div class="card post-preview flex-md-row-reverse">
+    <article class="card-wrapper">
+      <a href="{{ post.url | relative_url }}" class="card post-preview flex-md-row-reverse">
         {% if post.image %}
           {% if post.image.lqip %}
             {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}
@@ -69,7 +68,8 @@ refactor: true
             {% include datetime.html date=post.date lang=lang %}
           </div>
 
-          <div class="card-text post-content mt-0 mb-2">
+          <div class="card-text content mt-0 mb-2">
+            <p>
               {% include no-linenos.html content=post.content %}
               <!-- pre-content -->
               {{ post.content | split: "<!--readmore-->" | first | strip_html }}
@@ -78,7 +78,9 @@ refactor: true
 
           <div class="post-meta flex-grow-1 d-flex align-items-end">
             <div class="me-auto">
-
+              <!-- posted date -->
+              <i class="far fa-calendar fa-fw me-1"></i>
+              {% include datetime.html date=post.date lang=lang %}
 
               <!-- categories -->
               {% if post.categories.size > 0 %}
@@ -102,9 +104,13 @@ refactor: true
           <!-- .post-meta -->
         </div>
         <!-- .card-body -->
-      </div>
-    </a>
+      </a>
+    </article>
   {% endfor %}
+{% endcapture %}
+
+<div id="post-list" class="flex-grow-1 pe-xl-2">
+  {% include refactor-content.html content=content lang=lang %}
 </div>
 <!-- #post-list -->
 

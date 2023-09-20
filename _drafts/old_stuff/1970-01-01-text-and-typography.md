@@ -24,9 +24,7 @@ This post is to show Markdown syntax rendering on [**Chirpy**](https://github.co
 
 <h3 data-toc-skip>H3 - heading</h3>
 
-<h4>H4 - heading</h4>
----
-<br>
+<h4 data-toc-skip>H4 - heading</h4>
 
 ## Paragraph
 
@@ -109,21 +107,37 @@ _Full screen width and center alignment_
 ![Window shadow](/posts/20190808/window.png){: .shadow width="1548" height="864" .w-75 }
 _shadow effect (visible in light mode)_
 
-<br>
+```
+This is a common code snippet, without syntax highlight and line number.
+```
 
-- Left aligned
+### Specific Language
 
-![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-75 .normal}
+```bash
+if [ $? -ne 0 ]; then
+  echo "The command was not successful.";
+  #do the needful / exit
+fi;
+```
 
-- Float to left
+### Specific filename
 
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .left}
-  Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum. Phasellus a tortor aliquam, tristique felis sit amet, elementum enim. Integer vestibulum vitae nulla nec pretium.
+```sass
+@import
+  "colors/light-typography",
+  "colors/dark-typography";
+```
+{: file='_sass/jekyll-theme-chirpy.scss'}
 
-- Float to right
+## Mathematics
 
-  ![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .right}
-  Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum. Phasellus a tortor aliquam, tristique felis sit amet, elementum enim. Integer vestibulum vitae nulla nec pretium.
+The mathematics powered by [**MathJax**](https://www.mathjax.org/):
+
+$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
+
+When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 ## Mermaid SVG
 
@@ -137,31 +151,21 @@ _shadow effect (visible in light mode)_
 
 ## Mathematics
 
-The mathematics powered by [**MathJax**](https://www.mathjax.org/):
+### Default (with caption)
 
-$$ \sum_{n=1}^\infty 1/n^2 = \frac{\pi^2}{6} $$
+![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" }
+_Full screen width and center alignment_
 
-When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+### Left aligned
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-75 .normal}
 
-## Inline code
+### Float to left
 
-This is an example of `Inline Code`.
+![Desktop View](/posts/20190808/mockup.png){: width="972" height="589" .w-50 .left}
+Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
 
-## Filepath
-
-Here is the `/path/to/the/file.extend`{: .filepath}.
-
-## Code block
-
-### Common
-
-```
-This is a common code snippet, without syntax highlight and line number.
-```
-
-### Specific Languages
+### Float to right
 
 #### Console
 
