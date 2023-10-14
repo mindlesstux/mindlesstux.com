@@ -56,7 +56,6 @@ refactor: true
 
           {% assign lqip = null %}
 
-<<<<<<< HEAD
         <div class="card-body d-flex flex-column">
           <h1 class="card-title my-2 mt-md-0">
             {{ post.title }}
@@ -68,14 +67,12 @@ refactor: true
               <!-- pre-content -->
               {{ post.content | split: "<!--readmore-->" | first | strip_html }}
               <!-- post-content -->
-=======
           {% if post.image.lqip %}
             {% capture lqip %}lqip="{{ post.image.lqip }}"{% endcapture %}
           {% endif %}
 
           <div class="col-md-5">
             <img src="{{ src }}" alt="{{ alt }}" {{ lqip }}>
->>>>>>> origin/production
           </div>
 
           {% assign card_body_col = '7' %}
