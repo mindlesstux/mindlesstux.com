@@ -5,7 +5,7 @@ last_modified_at: '2023-10-14 10:00:00 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
-categories: [jekyll]
+categories: [Jekyll]
 tags: [jekyll, chirpy, github]
 ---
 From time to time it is nessary to update the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme I use here on my site.  I end up failing to recall my steps everytime so I figured I better write them out and maybe someone might find it interesting.
@@ -123,13 +123,13 @@ Unmerged paths:
 
 It could be worse, I only have to look at 4 files this time.  I ignore the ones in `_drafts`.  To modify those 4 files I tend to use [VSCode](https://code.visualstudio.com/) with a git plugin to handle the compare.
 
-![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_1_vscode_diff_view.png)
+![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_1_vscode_diff_view.png){: .normal}
 
 Though sometimes I forget that ```git status ```  puts in things to identify changes.  I just need to go back in and remove those ensuring the upstream and my changes are what I want.
 
-![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_2_vscode_diff_view.png)
+![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_2_vscode_diff_view.png){: .normal}
 
 After that usually in VSCode I do the equivalent of ```git push```  to push the changes up into the repository.  After that is done it takes just a moment for CloudFlare Pages to kick and pull the repo, build the site, and give me a semi temporary url to go view the results in.
 
 
-![Cloudflare Pages](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_3_Cloudflare_Pages.png)
+![Cloudflare Pages](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_3_Cloudflare_Pages.png){: .normal}
