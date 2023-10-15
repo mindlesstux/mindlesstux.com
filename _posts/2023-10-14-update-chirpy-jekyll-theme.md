@@ -10,6 +10,8 @@ tags: [jekyll, chirpy, github]
 ---
 From time to time it is nessary to update the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme I use here on my site.  I end up failing to recall my steps everytime so I figured I better write them out and maybe someone might find it interesting.
 
+<!--readmore-->
+
 ## Github sync
 So I use the 'production' branch as what I base my site off of.  So step one is to sync the production branch to [my repos](https://github.com/mindlesstux/mindlesstux.com).  I simply go to the branch and hit sync fork.  I also do this for the master branch as well, for no reason.  I dont make any changes to production or master branches, they are just replicas for my purpose.
 
