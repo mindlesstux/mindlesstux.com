@@ -10,6 +10,8 @@ tags: [jekyll, chirpy, github]
 ---
 From time to time it is nessary to update the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme I use here on my site.  I end up failing to recall my steps everytime so I figured I better write them out and maybe someone might find it interesting.
 
+<!--readmore-->
+
 ## Github sync
 So I use the 'production' branch as what I base my site off of.  So step one is to sync the production branch to [my repos](https://github.com/mindlesstux/mindlesstux.com).  I simply go to the branch and hit sync fork.  I also do this for the master branch as well, for no reason.  I dont make any changes to production or master branches, they are just replicas for my purpose.
 
@@ -45,6 +47,7 @@ Removing .github/ISSUE_TEMPLATE/bug_report.md
 Automatic merge failed; fix conflicts and then commit the result.
 ```
 
+## Deal with conflicts
 Yay for conflicts of my changes.
 
 ```
@@ -123,13 +126,17 @@ Unmerged paths:
 
 It could be worse, I only have to look at 4 files this time.  I ignore the ones in `_drafts`.  To modify those 4 files I tend to use [VSCode](https://code.visualstudio.com/) with a git plugin to handle the compare.
 
-![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_1_vscode_diff_view.png){: .normal}
+![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_1_vscode_diff_view.png)
 
 Though sometimes I forget that ```git status ```  puts in things to identify changes.  I just need to go back in and remove those ensuring the upstream and my changes are what I want.
 
-![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_2_vscode_diff_view.png){: .normal}
+![VS Code Diff View](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_2_vscode_diff_view.png)
+
+## Push to github development branch
 
 After that usually in VSCode I do the equivalent of ```git push```  to push the changes up into the repository.  After that is done it takes just a moment for CloudFlare Pages to kick and pull the repo, build the site, and give me a semi temporary url to go view the results in.
 
+![Cloudflare Pages](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_3_Cloudflare_Pages.png)
 
-![Cloudflare Pages](/assets/img/posts/update-chirpy/Chirpy_Theme_Updates_3_Cloudflare_Pages.png){: .normal}
+## Push to github production branch
+After a quick review of does everything look good still?  If it does I just switch the ```mtcom-production``` branch and pull changes from ```mtcom-development```.  It should have no conflicts and serves as the new production that github will pickup, compile, and publish for me.
