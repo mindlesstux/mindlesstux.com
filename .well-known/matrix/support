@@ -1,0 +1,9 @@
+{
+  "contacts": [
+    {
+      "email_address": "mindlesstux@mindlesstux.com",
+      "matrix_id": "@mindlesstux:mindlesstux.com",
+      "role": "admin"
+    }
+  ]
+}
