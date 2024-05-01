@@ -22,10 +22,10 @@
   url:  'https://matrix.to/#/@mindlesstux:mindlesstux.com'                  # Fill with your matrix account page
   rel:  'noopener me'
 
-- type: reddit
-  icon: 'fab fa-reddit'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.reddit.com/user/mindlesstux'                  # Fill with your matrix account page
-  rel:  'noopener'
+#- type: reddit
+#  icon: 'fab fa-reddit'   # icons powered by <https://fontawesome.com/>
+#  url:  'https://www.reddit.com/user/mindlesstux'                  # Fill with your matrix account page
+#  rel:  'noopener'
 
 - type: discord
   icon: 'fab fa-discord'   # icons powered by <https://fontawesome.com/>
