@@ -10,7 +10,7 @@ tags: [fuck_reddit, unfair_ban]
 pin: true
 ---
 
-Yesterday morning I was permanently banned from Reddit on my main account.  No warning, no lube, no nothing.  Readmore to see my timeline of attempting to deal with this.
+Yesterday morning I was permanently banned from Reddit on my main account.  No warning, no lube, no nothing.  This is mostly for me to vent but readmore to see my timeline of attempting to deal with this.
 
 <!--readmore-->
 
