@@ -10,15 +10,21 @@ tags: [fuck_reddit, unfair_ban]
 pin: true
 ---
 
-Yesterday morning I was permanently banned from Reddit on my main account.  No warning, no lube, no nothing.  This is mostly for me to vent but readmore to see my timeline of attempting to deal with this.
+Yesterday morning I was permanently banned from Reddit on my main account.  No warning, no lube, no nothing.  This is mostly for me to vent but readmore to see my timeline of attempting to deal with this.  My expectation is that nothing will happen and I will be wasting my time.
 
 <!--readmore-->
 
 ### Timeline:
 Please note that the times are approximate.
 
+> 2024-04-30
+{: .prompt-info }
+
 #### 2024-04-30 0700 ET:
-I am doing morning doom scrolling in reddit and I get a message from [u/reddit](https://www.reddit.com/u/reddit/)u/reddit and a big red banner of being permanently banned.  I figure this is some bot that went crazy and things will be corrected after my morning shower.  Nope.
+I am doing morning doom scrolling in reddit and I get a message from [u/reddit](https://www.reddit.com/u/reddit/) and a big red banner of being permanently banned.  I figure this is some bot that went crazy and things will be corrected after my morning shower.  Nope.
+
+![Ban Message](/assets/img/posts/reddit-ban/The-Big-Red-Banner.png){: width="1354" height="79" .w-75 
+_The inital ban message from Reddit._}
 
 ![Ban Message](/assets/img/posts/reddit-ban/The-Ban-Message.png){: width="875" height="266" .w-75 
 _The inital ban message from Reddit._}
@@ -38,6 +44,9 @@ I spot check many of my posts and comments as I could still pull them up from my
 #### 2024-04-30 2100 ET:
 I made an [open letter post](https://www.reddit.com/r/reddithelp/comments/1ch8a6j/an_open_message_for_reddit_adminstaff_another/) on [r/reddithelp](https://www.reddit.com/r/reddithelp/).
 I left it with pending moderator approval figuring this would go no where.
+
+> 2024-05-01
+{: .prompt-info }
 
 #### 2024-05-01 1530 ET:
 My unsued alternate is now also permanently banned.
