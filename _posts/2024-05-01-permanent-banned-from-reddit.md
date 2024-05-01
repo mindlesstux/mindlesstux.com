@@ -30,7 +30,7 @@ _The inital ban message from Reddit._}
 _The inital ban message from Reddit._}
 
 #### 2024-04-30 1000 ET:
-I sumbit my inital appeal attempt.  I cant recall exactly what I said but it indicated I only have [u/mindlesstux](https://www.reddit.com/u/mindlesstux/) and one other.  I also find the appeal page has a 250 char limit (at the time I miss read it as 200).  That is far to damn small.
+I submit my inital appeal attempt.  I cant recall exactly what I said but it indicated I only have [u/mindlesstux](https://www.reddit.com/u/mindlesstux/) and one other.  I also find the appeal page has a 250 char limit (at the time I miss read it as 200).  That is far to damn small.
 
 #### 2024-04-30 1600 ET:
 I get the first response, denied.
