@@ -1,7 +1,7 @@
 ---
 title: 'Permanently Banned from Reddit'
 date: '2024-05-01 00:00:00 -0400'
-last_modified_at: '2024-05-01 17:00:01 -0400'
+last_modified_at: '2024-05-21 10:40:01 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
