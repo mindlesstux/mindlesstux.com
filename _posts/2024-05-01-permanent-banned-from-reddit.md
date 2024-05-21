@@ -54,6 +54,9 @@ My unsued alternate is now also permanently banned.
 #### 2024-05-01 1700 ET:
 I submitted a second appeal for my main account.  I also find that the post I made last night looks to have been approved but then was moderated away.  So that is when I decided to write everything down and post a public timeline that I can refer to.
 
+> 2024-05-21
+{: .prompt-info }
+
 #### 2024-05021 1040 ET:
 I submitted another appeal [via the form](https://reddit.com/appeal)
 ```
