@@ -7,7 +7,6 @@ layout: post
 Reference_URL:
 categories: 
 tags: [fuck_reddit, unfair_ban]
-pin: true
 ---
 
 Yesterday morning I was permanently banned from Reddit on my main account.  No warning, no lube, no nothing.  This is mostly for me to vent but readmore to see my timeline of attempting to deal with this.  My expectation is that nothing will happen and I will be wasting my time.
