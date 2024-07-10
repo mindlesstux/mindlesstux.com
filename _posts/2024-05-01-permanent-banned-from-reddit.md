@@ -1,7 +1,7 @@
 ---
 title: 'Permanently Banned from Reddit'
 date: '2024-05-01 00:00:00 -0400'
-last_modified_at: '2024-05-21 10:40:01 -0400'
+last_modified_at: '2024-07-10 11:30:01 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
@@ -56,8 +56,10 @@ I submitted a second appeal for my main account.  I also find that the post I ma
 > 2024-05-21
 {: .prompt-info }
 
-#### 2024-05021 1040 ET:
+#### 2024-05-21 1040 ET:
 I submitted another appeal [via the form](https://reddit.com/appeal)
 
 > I repeat my statement I did not break rules to my knowledge.  I believe my account is flagged due to an IP share, likely from OVH network where I have VPS for VPN use.  I only have this account as main and another account via SSO that was accidental.
 
+#### 2024-06-09:
+Sometime in the past week the ban was removed from my account my accidental account.
