@@ -1,11 +1,12 @@
 ---
 title: 'Testing Cloudflare Zaraz'
 date: '2024-07-10 11:30:00 -0400'
-last_modified_at: '2024-07-10 13:00:00 -0400'
+last_modified_at: '2024-07-12 11:30:00 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
 categories: CloudFlare
+hidden: true
 ---
 
 This morning I was browsing the RSS feeds I subscribe too, one that caught my eye was [this new post by Cloudflare](https://blog.cloudflare.com/zaraz-supports-server-side-rendering-of-embeds).
