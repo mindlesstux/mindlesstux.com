@@ -1,7 +1,7 @@
 ---
 title: 'Testing Cloudflare Zaraz'
 date: '2024-07-10 11:30:00 -0400'
-last_modified_at: '2024-07-12 11:30:00 -0400'
+last_modified_at: '2024-07-18 15:40:00 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
@@ -23,4 +23,4 @@ I dont really use Twitter/X or Instagram but I just had to set it up and try it 
 
 ## Update after posting
 So it does not appear to be functional for me via Cloudflare Pages.  I'll keep poking and testing but for now it does not seem to be working right.
-![Non Functional Zaraz Test](/assets/img/cloudflare-zaraz-test/2024-07-10_13-10.png)
+![Non Functional Zaraz Test](/assets/img/posts/cloudflare-zaraz-test/2024-07-10_13-10.png)
