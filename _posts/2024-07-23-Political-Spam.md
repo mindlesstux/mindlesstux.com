@@ -14,7 +14,9 @@ So with the coming election season I felt like doing something fun to just see h
 
 <!--readmore-->
 
-| Date       | For       | Type       | Person          | Links |
-| :--------- | :-------- | :--------- | :-------------- | :---------- |
-| 2024-07-23 | NC Senate | Mail Flyer | Ashley Adams    | [BallotPedia](https://ballotpedia.org/Ashlee_Bryan_Adams) [Campaign Site](https://www.ashleefornc.com/) |
-| 2024-07-24 | President | SMS        | Donald Trump    | [To "Site"](http://trumpmaga.vip/ESuwP) |
+| Date       | For       | Type       | Person          | Links | Notes |
+| :--------- | :-------- | :--------- | :-------------- | :---------- | :-------- |
+| 2024-07-23 | NC Senate | Mail Flyer | Ashley Adams    | [Campaign Site](https://www.ashleefornc.com/) | |
+| 2024-07-24 | President | SMS        | Donald Trump    | [To "Site"](http://trumpmaga.vip/ESuwP) | |
+| 2024-07-25 | President | SMS        | Harris          |   | |
+| 2024-07-26 | Governor  | Targeted Door Hanger | Josh Stein | | This was targeted, watched person walk down the street skipping many houses. |
