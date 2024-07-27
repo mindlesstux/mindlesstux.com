@@ -2,11 +2,11 @@
   "links": [
     {
       "rel": "urn:xmpp:alt-connections:xbosh",
-      "href": "https://xmpp.mindlesstux.com:5280/bosh"
+      "href": "https://xmpp.mindlesstux.com/bosh"
     },
     {
       "rel": "urn:xmpp:alt-connections:websocket",
-      "href": "wss://xmpp.mindlesstux.com:443/ws"
+      "href": "wss://xmpp.mindlesstux.com/ws"
     }
   ]
 }
