@@ -23,6 +23,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-07-26 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Drug Prices |
 | 2024-07-27 |           | USPS       | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) |  | Downplay of competitor [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
 | 2024-07-24 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | Survey: Rate Trump |
+
 # Also
 
 If I do interact with anyone asking whom I will be voting for...  The answer is [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) or [Flying Spaghetti Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), depending on my hunger at the time of the interaction.  My personal belief is that politics and religion are yours to keep to yourself.  You can argue the points for each but you should not discount anyone for what they believe in.
