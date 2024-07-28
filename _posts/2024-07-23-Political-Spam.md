@@ -21,7 +21,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-07-25 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Lower Housing Cost |
 | 2024-07-26 |           | Targeted Door Hanger | Pro-Life | | This was targeted, watched person walk down the street skipping many houses. |
 | 2024-07-26 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Drug Prices |
-| 2024-07-27 |           | USPS       | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) |  | Downplay of competitor [Tarence Everitt](https://ballotpedia.org/Tarence_Everitt) |
+| 2024-07-27 |           | USPS       | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) |  | Downplay of competitor [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
 | 2024-07-24 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | Survey: Rate Trump |
 # Also
 
