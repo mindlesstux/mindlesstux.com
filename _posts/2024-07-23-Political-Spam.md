@@ -26,7 +26,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-07-28 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Anti Corp Price Gouging |
 | 2024-07-30 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://trumpmaga.vip/j8KZY8) | Fund Raise |
 | 2024-07-31 |           | SMS        |                                                      | [To "Site"](http://teamgop24.com/YCMWh) | Survey from "Kellyanne Conway" |
-| 2024-08-01 | NC Gov | SMS | [Mark K. Robinson]([https://ballotpedia.org/Ashlee_Bryan_Adams](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor) | [To "Site"](https://facts-34.com/znOEXP) | |
+| 2024-08-01 | NC Gov | SMS | [Mark K. Robinson](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor) | [To "Site"](https://facts-34.com/znOEXP) | |
 | 2024-08-03 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
 
 
