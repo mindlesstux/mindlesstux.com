@@ -17,14 +17,12 @@ So with the coming election season, I felt like doing something fun to just see 
 | Date       | For       | Type       | Person          | Links       | Notes     |
 | :--------- | :-------- | :--------- | :-------------- | :---------- | :-------- |
 | 2024-07-23 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Downplay [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
+| 2024-07-24 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | Survey: Rate Trump |
 | 2024-07-25 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://trumpmaga.vip/ESuwP) | Donate |
 | 2024-07-25 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Lower Housing Cost |
 | 2024-07-26 |           | Targeted Door Hanger | Pro-Life | | This was targeted, watched person walk down the street skipping many houses. |
 | 2024-07-26 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Drug Prices |
 | 2024-07-27 |           | USPS       | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) |  | Downplay of competitor [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
-| 2024-07-24 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | Survey: Rate Trump |
-| 2024-07-25 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | Fund Raise |
-| 2024-07-25 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Lower Housing Cost |
 | 2024-07-28 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Anti Corp Price Gouging |
 | 2024-07-30 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://trumpmaga.vip/j8KZY8) | Fund Raise |
 | 2024-07-31 |           | SMS        |                                                      | [To "Site"](http://teamgop24.com/YCMWh) | Survey from "Kellyanne Conway" |
