@@ -28,6 +28,10 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-07-31 |           | SMS        |                                                      | [To "Site"](http://teamgop24.com/YCMWh) | Survey from "Kellyanne Conway" |
 | 2024-08-01 | NC Gov | SMS | [Mark K. Robinson](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor)) | [To "Site"](https://facts-34.com/znOEXP) | |
 | 2024-08-03 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
+| 2024-08-06 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | [To "Site"](https://secure.actblue.com/donate/p2p-240806-kvau?refcode=misc_8_fl) | Intro VP Pick / Donation request |
+| 2024-08-07 | NC Gov | SMS | [Mark K. Robinson](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor)) | [To "Site"](https://facts-34.com/O7K4J5) | Exact same aside from URL change as 8/1 |
+| 2024-08-07 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/LaHjKw) | Donate |
+| 2024-08-08 | President | SMS        | "Publius Pools" |  | Asking whom I will vote for |
 
 
 # Also
