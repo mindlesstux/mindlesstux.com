@@ -32,6 +32,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-08-07 | NC Gov | SMS | [Mark K. Robinson](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor)) | [To "Site"](https://facts-34.com/O7K4J5) | Exact same aside from URL change as 8/1 |
 | 2024-08-07 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/LaHjKw) | Donate |
 | 2024-08-08 | President | SMS        | "Publius Pools" |  | Asking whom I will vote for |
+| 2024-08-09 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
 
 
 # Also
