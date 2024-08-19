@@ -33,8 +33,13 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-08-07 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/LaHjKw) | Donate |
 | 2024-08-08 | President | SMS        | "Publius Pools" |  | Asking whom I will vote for |
 | 2024-08-09 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
-
-
+| 2024-08-10 | NC Senate | Mail Flyer | | | Against Ashlee Adams |
+| 2024-08-13 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | ["Survey"](https://gopway1.com/2OGgEo)
+ | Targets wifes name but using my number. Survey: "Answer Questions" / Donate |
+| 2024-08-14 |           | SMS        | | | Pledge for fair wages |
+| 2024-08-17 |           | SMS        | | | Violent Crime/Illegal Immigration/Dont defund police |
+| 2024-08-17 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/X5aqil) | Donate |
+| 2024-08-19 | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
 # Also
 
 If I do interact with anyone asking whom I will be voting for...  The answer is [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) or [Flying Spaghetti Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), depending on my hunger at the time of the interaction.  My personal belief is that politics and religion are yours to keep to yourself.  You can argue the points for each but you should not discount anyone for what they believe in.
