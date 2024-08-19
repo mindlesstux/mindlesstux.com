@@ -34,8 +34,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-08-08 | President | SMS        | "Publius Pools" |  | Asking whom I will vote for |
 | 2024-08-09 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
 | 2024-08-10 | NC Senate | Mail Flyer | | | Against Ashlee Adams |
-| 2024-08-13 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | ["Survey"](https://gopway1.com/2OGgEo)
- | Targets wifes name but using my number. Survey: "Answer Questions" / Donate |
+| 2024-08-13 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | ["Survey"](https://gopway1.com/2OGgEo) | Targets wife's name but using my number. Survey: "Answer Questions" / Donate |
 | 2024-08-14 |           | SMS        | | | Pledge for fair wages |
 | 2024-08-17 |           | SMS        | | | Violent Crime/Illegal Immigration/Dont defund police |
 | 2024-08-17 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/X5aqil) | Donate |
