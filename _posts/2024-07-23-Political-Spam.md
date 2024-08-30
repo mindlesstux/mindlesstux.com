@@ -39,16 +39,18 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-08-17 |           | SMS        | | | Violent Crime/Illegal Immigration/Dont defund police |
 | 2024-08-17 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/X5aqil) | Donate |
 | 2024-08-19 | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
-
-| 2024-08-?? | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
-| 2024-08-?? | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
-| 2024-08-?? | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
-| 2024-08-?? | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about claiming deystroying medicare and social security |
-| 2024-08-?? | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
-| 2024-08-?? | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | One side pro trump other anti harris
-| 2024-08-?? | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
-| 2024-08-?? | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | [To "Site"](http://terenceeveritt.com) | |
-
+| 2024-08-19 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trump2024.org/r.wr?id=xVAJ7dUR) | Donate |
+| 2024-08-19 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/BkRKo7) | Donate |
+| 2024-08-20 | President | SMS        | | | Attack Harris on crime policies |
+| 2024-08-22 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/UKFUI7) | Donate |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
+| 2024-08-(19-25) | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about claiming deystroying medicare and social security |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
+| 2024-08-(19-25) | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | One side pro trump other anti harris
+| 2024-08-(19-25) | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | [To "Site"](http://terenceeveritt.com) | |
 | 2024-08-26 | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for defunding public schools, not authorized by any candidate |
 | 2024-08-28 | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
 | 2024-08-30 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt |
