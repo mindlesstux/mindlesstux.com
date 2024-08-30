@@ -39,6 +39,22 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-08-17 |           | SMS        | | | Violent Crime/Illegal Immigration/Dont defund police |
 | 2024-08-17 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/X5aqil) | Donate |
 | 2024-08-19 | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
+
+| 2024-08-?? | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
+| 2024-08-?? | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
+| 2024-08-?? | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
+| 2024-08-?? | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about claiming deystroying medicare and social security |
+| 2024-08-?? | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
+| 2024-08-?? | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | One side pro trump other anti harris
+| 2024-08-?? | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
+| 2024-08-?? | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | [To "Site"](http://terenceeveritt.com) | |
+
+| 2024-08-26 | NC Senate | Mail Flyer | | | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for defunding public schools, not authorized by any candidate |
+| 2024-08-28 | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
+| 2024-08-30 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt |
+| 2024-08-30 | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about Project 2025 lies of Trump |
+| 2024-08-30 | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about claiming deystroying medicare and social security |
+| 2024-08-30 | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platfrom.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about Project 2025 lies of Trump |
 # Also
 
 If I do interact with anyone asking whom I will be voting for...  The answer is [Cthulhu](https://en.wikipedia.org/wiki/Cthulhu) or [Flying Spaghetti Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster), depending on my hunger at the time of the interaction.  My personal belief is that politics and religion are yours to keep to yourself.  You can argue the points for each but you should not discount anyone for what they believe in.
