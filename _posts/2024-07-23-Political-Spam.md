@@ -1,12 +1,12 @@
 ---
 title: 'Political Spam'
 date: '2024-07-23 19:00:01 -0400'
-last_modified_at: '2024-07-27 23:00:01 -0400'
+last_modified_at: '2024-08-30 17:00:00 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
 categories: [Political]
-tags: [political, spam, junk mail]
+tags: [political, spam, junk mail, hidden]
 hidden: true
 ---
 
@@ -16,18 +16,47 @@ So with the coming election season, I felt like doing something fun to just see 
 
 | Date       | For       | Type       | Person          | Links       | Notes     |
 | :--------- | :-------- | :--------- | :-------------- | :---------- | :-------- |
-| 2024-07-23 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Downplay [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
-| 2024-07-24 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | Survey: Rate Trump |
-| 2024-07-25 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://trumpmaga.vip/ESuwP) | Donate |
-| 2024-07-25 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Lower Housing Cost |
-| 2024-07-26 |           | Targeted Door Hanger | Pro-Life | | This was targeted, watched person walk down the street skipping many houses. |
-| 2024-07-26 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Drug Prices |
-| 2024-07-27 |           | USPS       | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) |  | Downplay of competitor [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
-| 2024-07-28 | President | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Anti Corp Price Gouging |
-| 2024-07-30 | President | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://trumpmaga.vip/j8KZY8) | Fund Raise |
-| 2024-07-31 |           | SMS        |                                                      | [To "Site"](http://teamgop24.com/YCMWh) | Survey from "Kellyanne Conway" |
-| 2024-08-01 | NC Gov | SMS | [Mark K. Robinson](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor)) | [To "Site"](https://facts-34.com/znOEXP) | |
-| 2024-08-03 | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
+| 2024-07-23 | NC Senate      | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Downplay [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
+| 2024-07-24 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | Survey: Rate Trump |
+| 2024-07-25 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://trumpmaga.vip/ESuwP) | Donate |
+| 2024-07-25 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Lower Housing Cost |
+| 2024-07-26 |                | Targeted Door Hanger | Pro-Life | | This was targeted, watched person walk down the street skipping many houses. |
+| 2024-07-26 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Drug Prices |
+| 2024-07-27 |                | USPS       | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) |  | Downplay of competitor [Terence Everitt](https://ballotpedia.org/Terence_Everitt) |
+| 2024-07-28 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Anti Corp Price Gouging |
+| 2024-07-30 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://trumpmaga.vip/j8KZY8) | Fund Raise |
+| 2024-07-31 |                | SMS        |                                                      | [To "Site"](http://teamgop24.com/YCMWh) | Survey from "Kellyanne Conway" |
+| 2024-08-01 | NC Gov         | SMS        | [Mark K. Robinson](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor)) | [To "Site"](https://facts-34.com/znOEXP) | |
+| 2024-08-03 | NC Senate      | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
+| 2024-08-06 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | [To "Site"](https://secure.actblue.com/donate/p2p-240806-kvau?refcode=misc_8_fl) | Intro VP Pick / Donation request |
+| 2024-08-07 | NC Gov         | SMS        | [Mark K. Robinson](https://ballotpedia.org/Mark_K._Robinson_(North_Carolina_lieutenant_governor)) | [To "Site"](https://facts-34.com/O7K4J5) | Exact same aside from URL change as 8/1 |
+| 2024-08-07 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/LaHjKw) | Donate |
+| 2024-08-08 | President      | SMS        | "Publius Pools" |  | Asking whom I will vote for |
+| 2024-08-09 | NC Senate      | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | [Campaign Site](https://www.ashleefornc.com/) | Duplicate Mailer from 2024-07-23 |
+| 2024-08-10 | NC Senate      | Mail Flyer | |  | Against Ashlee Adams |
+| 2024-08-13 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | ["Survey"](https://gopway1.com/2OGgEo) | Targets wife's name but using my number. Survey: "Answer Questions" / Donate |
+| 2024-08-14 |                | SMS        | |  | Pledge for fair wages |
+| 2024-08-17 |                | SMS        | |  | Violent Crime/Illegal Immigration/Dont defund police |
+| 2024-08-17 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/X5aqil) | Donate |
+| 2024-08-19 | NC Senate      | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
+| 2024-08-19 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trump2024.org/r.wr?id=xVAJ7dUR) | Donate |
+| 2024-08-19 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/BkRKo7) | Donate |
+| 2024-08-20 | President      | SMS        | |  | Attack Harris on crime policies |
+| 2024-08-22 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/UKFUI7) | Donate |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | |  | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
+| 2024-08-(19-25) | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about claiming deystroying medicare and social security |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt for "defunding the police" |
+| 2024-08-(19-25) | President | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | One side pro trump other anti harris |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | |  | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for abortion ban, not authorized by any candidate |
+| 2024-08-(19-25) | NC Senate | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | [To "Site"](http://terenceeveritt.com) | |
+| 2024-08-26 | NC Senate      | Mail Flyer | |  | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) attacked for defunding public schools, not authorized by any candidate |
+| 2024-08-28 | NC Senate      | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt) | | |
+| 2024-08-30 | NC Senate      | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | Attacking Terence Everitt |
+| 2024-08-30 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about Project 2025 lies of Trump |
+| 2024-08-30 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about claiming deystroying medicare and social security |
+| 2024-08-30 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about Project 2025 lies of Trump |
 
 
 # Also
