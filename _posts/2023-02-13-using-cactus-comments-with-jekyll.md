@@ -9,7 +9,7 @@ Reference_URL:
     - 'https://cactus.chat/docs/integrations/jekyll/'
     - 'https://github.com/mindlesstux/mindlesstux.github.io/blob/master/_includes/comments/cactus.html'
 categories: [Jekyll]
-tags: [comments, jekyll]
+tags: [comments, jekyll, matrix]
 ---
 
 With my switching to using Jekyll and wanting to still have a comment system on my posts.  I set out looking at my options.  There were many options out there and some were better in ways than my final choice.  Such as [Disqus](https://disqus.com/).  My friend and ex-coworker uses it on [his blog](https://www.unixdude.net/).  While it offers a nice little interface and allows for logins from popular services, it just did not feel right for me to use.  Most of the ones I found all controlled the data, aka I would not host it.  
