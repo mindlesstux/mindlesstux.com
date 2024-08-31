@@ -6,7 +6,7 @@ author: MindlessTux
 layout: post
 Reference_URL:
 categories: [Political]
-tags: [political, spam, junk mail. hidden]
+tags: [political, spam, junk mail, hidden]
 hidden: true
 ---
 
