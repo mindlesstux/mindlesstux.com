@@ -1,7 +1,7 @@
 ---
 title: 'Political Spam'
 date: '2024-07-23 19:00:01 -0400'
-last_modified_at: '2024-08-30 17:00:00 -0400'
+last_modified_at: '2024-09-10 23:50:00 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
@@ -57,6 +57,22 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-08-30 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about Project 2025 lies of Trump |
 | 2024-08-30 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about claiming deystroying medicare and social security |
 | 2024-08-30 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about Project 2025 lies of Trump |
+| 2024-09-04 | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | She supports tax dollars to private schools |
+| 2024-09-05 | NC Senate      | Mail Flyer | Against [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | | He supports defunding police |
+| 2024-09-06 | NC Senate      | Mail Flyer | Against [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | [To "Site"](http://terenceeveritt.com | |
+| 2024-09-07 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about "Destroying MEdicare and SS" |
+| 2024-09-07 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | 10 Pro Trump & 10 anti-Harris |
+| 2024-08-24 | President      | SMS        | | | Whom am I going to vote for? |
+| 2024-08-28 | President      | SMS        | | [To "Site" for Dems](https://teamgop24.com/SfhPG) or [To "Site" for Repb](https://teamgop24.com/SfhPG) | Whom am I going to vote for? Links to GOP site |
+| 2024-08-29 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trump2024.org/r.wr?id=39BHWDis)  | Donate |
+| 2024-08-31 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/Ex7pt6) | Donate |
+| 2024-09-04 | President      | SMS        | | [To "Site" for Dems](https://teamgop24.com/T2efF) or [To "Site" for Repb](https://teamgop24.com/T2efF) | Whom am I going to vote for? Links to GOP site |
+| 2024-09-06 | President      | SMS        | | [To "Site"](https://teamgop24.com/jFtOJ) | Senate Donate |
+| 2024-09-06 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Random News & Observer "clip" |
+| 2024-09-10 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trump2024.org/r.wr?id=6U5hJ9vB) | Donate  & Addressed to wife on my number |
+| 2024-09-10 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpmaga.vip/RjcxA9) | Donate |
+| Unknown | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about "Destroying MEdicare and SS"  - Date unknown was not sorted in time |
+| Unknown | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | She supports tax dollars to private schools   - Date unknown was not sorted in time |
 
 
 # Also
