@@ -66,7 +66,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-09-05 | NC Senate      | Mail Flyer | Against [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | | He supports defunding police |
 | 2024-09-06 | President      | SMS        | | [To "Site"](https://teamgop24.com/jFtOJ) | Senate Donate |
 | 2024-09-06 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Random News & Observer "clip" |
-| 2024-09-06 | NC Senate      | Mail Flyer | Against [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | [To "Site"](http://terenceeveritt.com | |
+| 2024-09-06 | NC Senate      | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | [To "Site"](http://terenceeveritt.com) | |
 | 2024-09-07 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about "Destroying MEdicare and SS" |
 | 2024-09-07 | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | 10 Pro Trump & 10 anti-Harris |
 | 2024-09-10 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trump2024.org/r.wr?id=6U5hJ9vB) | Donate  & Addressed to wife on my number |
