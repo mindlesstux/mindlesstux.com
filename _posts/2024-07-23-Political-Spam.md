@@ -77,7 +77,9 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-09-12 | President      | Mail Flyer | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | [To Site](https://kamalaharris.com)]| 
 | 2024-09-12 | NC Senate      | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | [To "Site"](http://terenceeveritt.com) | |
 | 2024-09-12 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trump2024.org/r.wr?id=thYrMU4O) | Donate |
-| Unknown | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about "Destroying MEdicare and SS"  - Date unknown was not sorted in time |
+| 2024-09-14 | NC Senate      | Door to Door | [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | |  |
+| Unknown | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about "Destroying MEdicare and SS"  - Date unknown 
+was not sorted in time |
 | Unknown | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | She supports tax dollars to private schools   - Date unknown was not sorted in time |
 
 
