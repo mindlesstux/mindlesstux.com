@@ -1,0 +1,50 @@
+name: Update for political post
+description: 
+labels:
+  - enhancement
+body:
+  - type: dropdown
+    attributes:
+      label: For what position
+      description: NC Senate, President, NC House, etc..
+      options:
+        - NC Senate
+        - NC House
+        - NC Gov
+        - President
+        - Other
+  - type: dropdown
+    attributes:
+      label: Type of interaction
+      options: 
+        - Mail Flyer
+        - Door Hanger
+        - Targeted Door Hanger
+        - Door Knocker
+        - Targeted Door Knocker
+        - Door to Door
+        - SMS
+        - Other?
+  - type: checkboxes
+    attributes: Whom for?
+      label: Type of interaction
+      options: 
+        - Ashlee Adams +
+        - Ashlee Adams -
+        - Donald Trump +
+        - Donald Trump - 
+        - Kamala Harris +
+        - Kamala Harris -
+        - Mark K. Robinson +
+        - Mark K. Robinson -
+        - Terence Everitt +
+        - Terence Everitt -
+        - Other
+ - type: textarea
+    attributes:
+      label: Link to something?
+      value: "https://fried.eggs/"
+ - type: textarea
+    attributes:
+      label: Notes
+      value: "..."
