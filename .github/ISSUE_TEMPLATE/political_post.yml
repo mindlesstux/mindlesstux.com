@@ -26,7 +26,7 @@ body:
         - SMS
         - Other?
   - type: checkboxes
-    attributes: Whom for?
+    attributes: Whom for
       label: Type of interaction
       options: 
         - Ashlee Adams +
