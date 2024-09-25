@@ -14,6 +14,7 @@ body:
         - President
         - Other
   - type: dropdown
+    multiple: false
     attributes:
       label: Type of interaction
       options: 
@@ -25,7 +26,8 @@ body:
         - Door to Door
         - SMS
         - Other?
-  - type: checkboxes
+  - type: dropdown
+    multiple: true
     attributes: 
       label: Who for
       options: 
@@ -40,7 +42,7 @@ body:
         - Terence Everitt +
         - Terence Everitt -
         - Other
-  - type: textarea
+  - type: input
     attributes:
       label: Link to something?
       value: "https://fried.eggs/"
