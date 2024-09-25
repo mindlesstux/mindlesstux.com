@@ -40,11 +40,11 @@ body:
         - Terence Everitt +
         - Terence Everitt -
         - Other
- - type: textarea
+  - type: textarea
     attributes:
       label: Link to something?
       value: "https://fried.eggs/"
- - type: textarea
+  - type: textarea
     attributes:
       label: Notes
       value: "..."
