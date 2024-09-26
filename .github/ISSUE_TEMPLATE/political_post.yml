@@ -14,7 +14,6 @@ body:
         - President
         - Other
   - type: dropdown
-    multiple: false
     attributes:
       label: Type of interaction
       options: 
@@ -27,7 +26,6 @@ body:
         - SMS
         - Other?
   - type: dropdown
-    multiple: true
     attributes: 
       label: Who for
       options: 
