@@ -84,6 +84,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-09-16 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpteam.vip/9LiMD) | Donate |
 | Unknown | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about "Destroying MEdicare and SS"  - Date unknown was not sorted in time |
 | Unknown | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | She supports tax dollars to private schools   - Date unknown was not sorted in time |
+| 2024-09-19 | NC Senate      | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | [To "Site"](http://terenceeveritt.com) | |
 | 2024-09-21 | President      | Mail Flyer | Against [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | |
 | 2024-09-22 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://v.am-pac.co/6_vRrdD) | Donate |
 | 2024-09-23 | NC Senate      | Mail Flyer | For [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | |
