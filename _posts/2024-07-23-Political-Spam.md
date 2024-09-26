@@ -93,6 +93,7 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-09-23 | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | |
 | 2024-09-24 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Working Families Party |
 | 2024-09-25 | NC Senate      | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | |
+| 2024-09-25 | President      | Targeted Door Knock | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | America PAC? |
 
 # Also
 
