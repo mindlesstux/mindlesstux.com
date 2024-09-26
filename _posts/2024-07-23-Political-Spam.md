@@ -1,7 +1,7 @@
 ---
 title: 'Political Spam'
 date: '2024-07-23 19:00:01 -0400'
-last_modified_at: '2024-09-14 18:20:00 -0400'
+last_modified_at: '2024-09-25 23:30:00 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
@@ -84,7 +84,16 @@ So with the coming election season, I felt like doing something fun to just see 
 | 2024-09-16 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](https://trumpteam.vip/9LiMD) | Donate |
 | Unknown | President      | Mail Flyer | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://platform.donaldjtrump.com) | Attack [Kamala Harris](https://ballotpedia.org/Kamala_Harris) about "Destroying MEdicare and SS"  - Date unknown was not sorted in time |
 | Unknown | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | She supports tax dollars to private schools   - Date unknown was not sorted in time |
-
+| 2024-09-16 | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | |
+| 2024-09-16 | NC Senate      | Mail Flyer | Against [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | | |
+| 2024-09-19 | NC Senate      | Mail Flyer | [Terence Everitt](https://ballotpedia.org/Terence_Everitt)  | [To "Site"](http://terenceeveritt.com) | |
+| 2024-09-21 | President      | Mail Flyer | Against [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | |
+| 2024-09-22 | President      | SMS        | [Donald Trump](https://ballotpedia.org/Donald_Trump) | [To "Site"](http://v.am-pac.co/6_vRrdD) | Donate |
+| 2024-09-23 | NC Senate      | Mail Flyer | For [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | |
+| 2024-09-23 | NC Senate      | Mail Flyer | Against [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | |
+| 2024-09-24 | President      | SMS        | [Kamala Harris](https://ballotpedia.org/Kamala_Harris) | | Working Families Party |
+| 2024-09-25 | NC Senate      | Mail Flyer | [Ashlee Adams](https://ballotpedia.org/Ashlee_Bryan_Adams) | | |
+| 2024-09-25 | President      | Targeted Door Knock | [Donald Trump](https://ballotpedia.org/Donald_Trump) | | America PAC? |
 
 # Also
 
