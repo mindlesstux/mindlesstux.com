@@ -1,7 +1,7 @@
 name: Update for political post
 description: Easy form for myself to input updates where I cant update the post.
 labels:
-  - enhancement
+  - enhancement, political2024
 body:
   - type: dropdown
     attributes:
