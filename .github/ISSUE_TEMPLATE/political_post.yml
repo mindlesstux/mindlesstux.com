@@ -5,6 +5,7 @@ labels:
 body:
   - type: dropdown
     attributes:
+      multiple: true
       label: For what position
       description: NC Senate, President, NC House, etc..
       options:
@@ -12,6 +13,7 @@ body:
         - NC House
         - NC Gov
         - President
+        - NC Superintendent
         - Other
   - type: dropdown
     attributes:
