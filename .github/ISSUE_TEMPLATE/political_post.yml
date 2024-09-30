@@ -27,6 +27,7 @@ body:
         - Other?
   - type: dropdown
     attributes: 
+      multiple: true
       label: Who for
       options: 
         - Ashlee Adams +
