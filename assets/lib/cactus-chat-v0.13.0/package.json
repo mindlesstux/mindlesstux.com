@@ -1,0 +1,23 @@
+{
+  "name": "cactus-client",
+  "description": "Web comments using Matrix",
+  "main": "./src/cactus.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "dev": "parcel -p 8080 ./examples/dev.html",
+    "build": "parcel build ./src/cactus.js ./src/style.css"
+  },
+  "author": "Asbjørn Olling",
+  "license": "GPL",
+  "dependencies": {
+    "elm": "^0.19.1-5",
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "elm-hot": "^1.1.6",
+    "elm-test": "^0.19.1-revision6",
+    "node-elm-compiler": "^5.0.6"
+  }
+}
