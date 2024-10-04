@@ -1,5 +1,10 @@
 <!-- The comments switcher -->
+<!--
+  Page.comments: {{ page.comments }}
+  Site Comment Provider: {{ site.comments.provider }}
+-->
 {% if page.comments and site.comments.provider %}
   {% capture path %}comments/{{ site.comments.provider }}.html{% endcapture %}
+  <!-- Path: {{ path }} -->
   {% include {{ path }} %}
 {% endif %}
