@@ -1,7 +1,0 @@
-dist/
-.envrc
-.cache
-elm-stuff
-node_modules
-.coverage
-.env
