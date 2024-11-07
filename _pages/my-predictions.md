@@ -1,11 +1,25 @@
 ---
 title: My Predictions
 layout: page
-permalink: /47
+permalink: /predictions
 ---
 
 # What is this?
 This is a encrypted blob that I dont want to have easy searchings on.  I really want this to have a file on record I can say I told you so with with a timestamp.  You want the password, the answer is no.
+
+# How was the blob created?
+```
+nano prediction.txt
+gpg --symmetric --armor prediction.txt
+rm prediction.txt
+cat prediction.txt.asc
+```
+
+# How can I decode it?
+If I gave you the password or you want to waste your time cracking it.
+```
+gpg --decrypt prediction.txt.asc
+```
 
 # The Blob
 ```
