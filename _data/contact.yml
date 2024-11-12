@@ -36,10 +36,10 @@
   icon: 'fab fa-stack-overflow'
   url:  'https://stackoverflow.com/users/500874/mindlesstux'                  # Fill with your stackoverflow homepage
 
-# - type: bluesky
-#   icon: 'fa-brands fa-bluesky'
-#   url: ''                   # Fill with your Bluesky profile link
-#
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/mindlesstux.com'                   # Fill with your Bluesky profile link
+  
 # - type: threads
 #   icon: 'fa-brands fa-threads'
 #   url: ''                   # Fill with your Threads profile link
