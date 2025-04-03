@@ -18,7 +18,7 @@
   url:  'https://steamcommunity.com/id/mindlesstux/'                  # Fill with your steam account page
 
 - type: matrix
-  icon: 'fab fa-matrix-org'   # icons powered by <https://fontawesome.com/>
+  icon: 'fab fa-maxcdn'   # icons powered by <https://fontawesome.com/>
   url:  'https://matrix.to/#/@mindlesstux:mindlesstux.com'                  # Fill with your matrix account page
   rel:  'noopener me'
 
