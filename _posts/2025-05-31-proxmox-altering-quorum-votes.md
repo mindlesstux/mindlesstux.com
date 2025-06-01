@@ -18,21 +18,23 @@ Why do I need to adjust the votes?  I have an oddball setup in my homelab that 
 The problem this causes is that for Proxmox to start any VM in a cluster or allow configuration changes, it has to have a quorum. Unfortunately, that is 51% or better. By default, every node in the cluster gets a single vote. If the server rebooted, it would come up to a 50% quorum, not enough votes. Thankfully, getting around this is easy, but it is not recommended for anyone unless you have a random setup like this.
 
 The howto:
+
 As root
-```
+```bash
 systemctl stop pve-cluster.service
 pmxcvs -l
 nano /etc/pve/corosync.conf
 ```
 
 In the nodelist section, edit the node you want to have more votes to include
+
  quorum_votes: 3
 
 Then, in the totem section, update the config_version by one number.
 
 Save and close.
 
-```
+```bash
 killall pmxcfs
 systemctl start pve-cluster.service
 ```
