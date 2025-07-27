@@ -12,3 +12,8 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+
+# Trying to get last modified
+group :jekyll_plugins do
+  gem "jekyll-last-modified-at"
+end
