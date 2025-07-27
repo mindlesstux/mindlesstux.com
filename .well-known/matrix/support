@@ -3,7 +3,8 @@
     {
       "email_address": "mindlesstux@mindlesstux.com",
       "matrix_id": "@mindlesstux:mindlesstux.com",
-      "role": "admin"
+      "role": "m.role.admin"
     }
-  ]
+  ],
+  "support_page": "https://mindlesstux.com/matrix-support.html"
 }
