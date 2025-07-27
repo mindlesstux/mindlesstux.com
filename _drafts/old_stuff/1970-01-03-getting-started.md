@@ -68,7 +68,7 @@ For Unix-like systems, you can set up the environment natively for optimal perfo
 To run the site locally, use the following command:
 
 ```terminal
-$ bundle exec jekyll s
+$ bundle exec jekyll serve
 ```
 
 > If you are using Dev Containers, you must run that command in the **VS Code** Terminal.
@@ -92,8 +92,6 @@ Social contact options are displayed at the bottom of the sidebar. You can enabl
 ### Customizing the Stylesheet
 
 To customize the stylesheet, copy the theme's `assets/css/jekyll-theme-chirpy.scss`{: .filepath} file to the same path in your Jekyll site, and add your custom styles at the end of the file.
-
-Starting with version `6.2.0`, if you want to overwrite the SASS variables defined in `_sass/addon/variables.scss`{: .filepath}, copy the main SASS file `_sass/main.scss`{: .filepath} to the `_sass`{: .filepath} directory in your site's source, then create a new file `_sass/variables-hook.scss`{: .filepath} and assign your new values there.
 
 ### Customizing Static Assets
 

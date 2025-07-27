@@ -227,8 +227,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
+  - purgecss.js
   - "*.config.js"
-  - package*.json
+  - "package*.json"
 
 include: ["_pages", ".well-known","_redirects"]
 
