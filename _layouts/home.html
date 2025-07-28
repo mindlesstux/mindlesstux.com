@@ -70,7 +70,6 @@ refactor: true
 
           <div class="card-text content mt-0 mb-2">
             <p>
-              {% include no-linenos.html content=post.content %}
               <!-- pre-content -->
               {{ post.content | split: "<!--readmore-->" | first | strip_html }}
               <!-- post-content -->
@@ -91,7 +90,6 @@ refactor: true
 
             <div class="card-text content mt-0 mb-3">
               <p>
-                {% include no-linenos.html content=post.content %}
                 {{ content | split: "<!--readmore-->" | first | markdownify | strip_html | escape }}
               </p>
             </div>

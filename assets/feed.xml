@@ -49,7 +49,6 @@ permalink: /feed.xml
     <summary>{{ post.summary | strip }}</summary>
   {% else %}
     <summary>
-      {% include no-linenos.html content=post.content %}
       {{ content | split: "<!--readmore-->" | first | strip_html }}
     </summary>
   {% endif %}
