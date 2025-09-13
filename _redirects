@@ -19,7 +19,7 @@
 /live-blog/     /liveblog/                                          301
 /feed/          /feed.xml                                           301
 
-/.well-known/webfinger  https://mastodon.example.com/.well-known/webfinger    301
+/.well-known/webfinger  https://mastodon.mindlesstux.com/.well-known/webfinger    301
 
 /fuck-reddit/   /reddit-unfairly-banned-me/                         301
 /reddit-unfairly-banned-me/   /fuck-reddit/                         301
