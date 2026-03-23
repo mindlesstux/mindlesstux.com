@@ -11,7 +11,7 @@ categories: []
 tags: [fail2ban, sshd]
 ---
 
-I finally got annoyed enough with the SSH login spam I decided it was time to do something about it.  Normally one would whitelist the port to certain addresses or change the port it listens on.  Both of these are good but I feel do not do enough.  Sure there are other ssh hardening steps that I did but I wanted just a bit more.  Enter Fail2Ban which will read the logs and extract out the IPs of devices attempting to login and failing.  At which point if the IP trips the threshold actions are taken against it.  So I did a simple setup of fail2ban that I intend to extend in the future but wanted to write up about it so far.
+I finally got annoyed enough with the SSH login spam I decided it was time to do something about it.  Normally one would whitelist the port to certain addresses or change the port it listens on.  Both of these are good but I feel they do not do enough.  Sure there are other ssh hardening steps that I did but I wanted just a bit more.  Enter Fail2Ban which will read the logs and extract out the IPs of devices attempting to login and failing.  At which point if the IP trips the threshold actions are taken against it.  So I did a simple setup of fail2ban that I intend to extend in the future but wanted to write up about it so far.
 
 <!--readmore-->
 
