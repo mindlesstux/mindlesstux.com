@@ -1,6 +1,5 @@
 ---
 layout: default
-refactor: true
 ---
 
 {% include lang.html %}
@@ -55,9 +54,34 @@ refactor: true
 
         {% if post.image %}
           {% assign src = post.image.path | default: post.image %}
-          {% unless src contains '//' %}
-            {% assign src = post.media_subpath | append: '/' | append: src | replace: '//', '/' %}
-          {% endunless %}
+
+          {% if post.media_subpath %}
+            {% unless src contains '://' %}
+              {% assign src = post.media_subpath
+                | append: '/'
+                | append: src
+                | replace: '///', '/'
+                | replace: '//', '/'
+              %}
+            {% endunless %}
+          {% endif %}
+
+          {% if post.image.lqip %}
+            {% assign lqip = post.image.lqip %}
+
+            {% if post.media_subpath %}
+              {% unless lqip contains 'data:' %}
+                {% assign lqip = post.media_subpath
+                  | append: '/'
+                  | append: lqip
+                  | replace: '///', '/'
+                  | replace: '//', '/'
+                %}
+              {% endunless %}
+            {% endif %}
+
+            {% assign lqip_attr = 'lqip="' | append: lqip | append: '"' %}
+          {% endif %}
 
           {% assign alt = post.image.alt | xml_escape | default: 'Preview Image' %}
 
@@ -78,7 +102,7 @@ refactor: true
           {% endif %}
 
           <div class="col-md-5">
-            <img src="{{ src }}" alt="{{ alt }}" {{ lqip }}>
+            <img src="{{ src }}" alt="{{ alt }}" {{ lqip_attr }}>
           </div>
 
           {% assign card_body_col = '7' %}

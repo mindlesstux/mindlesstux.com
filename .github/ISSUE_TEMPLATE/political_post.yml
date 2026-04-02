@@ -1,0 +1,55 @@
+name: Update for political post
+description: Easy form for myself to input updates where I cant update the post.
+labels:
+  - enhancement, political2024
+body:
+  - type: dropdown
+    attributes:
+      multiple: true
+      label: For what position
+      description: NC Senate, President, NC House, etc..
+      options:
+        - NC Senate
+        - NC House
+        - NC Gov
+        - President
+        - NC Superintendent
+        - Other
+  - type: dropdown
+    attributes:
+      label: Type of interaction
+      options: 
+        - Mail Flyer
+        - Door Hanger
+        - Targeted Door Hanger
+        - Door Knocker
+        - Targeted Door Knocker
+        - Door to Door
+        - SMS
+        - Other?
+  - type: dropdown
+    attributes: 
+      multiple: true
+      label: Who for
+      options: 
+        - Ashlee Adams +
+        - Ashlee Adams -
+        - Donald Trump +
+        - Donald Trump - 
+        - Kamala Harris +
+        - Kamala Harris -
+        - Mark K. Robinson +
+        - Mark K. Robinson -
+        - Michele Morrow +
+        - Michele Morrow -
+        - Terence Everitt +
+        - Terence Everitt -
+        - Other
+  - type: input
+    attributes:
+      label: Link to something?
+      value: "https://fried.eggs/"
+  - type: textarea
+    attributes:
+      label: Notes
+      value: "..."
