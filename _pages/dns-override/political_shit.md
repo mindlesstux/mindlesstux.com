@@ -6,6 +6,10 @@ permalink: /dns-override/political_shit/
 
 The domain you tried to visit is blocked at a network level.
 
+It falls under the custom category, political shit.
+
+![Its Not DNS](/assets/img/its-not-dns.jpeg)
+
 Current list of domains blocked and result in this page:
 - globaloptouts.com
 - gop4u.co
@@ -72,4 +76,3 @@ Current list of domains blocked and result in this page:
 - uspoll.co
 - h.uspoll.co
 
-![Its Not DNS](/assets/img/)its-not-dns.jpeg
