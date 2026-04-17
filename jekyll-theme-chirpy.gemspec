@@ -1,6 +1,9 @@
 # frozen_string_literal: true
 # encoding: utf-8
 
+Encoding.default_external = Encoding::UTF_8
+Encoding.default_internal = Encoding::UTF_8
+
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-chirpy"
   spec.version       = "7.5.0"
