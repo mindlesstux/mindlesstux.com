@@ -151,9 +151,7 @@
 
       <!-- add image placeholder -->
       {% assign _left = _left | replace: 'src=', 'data-src=' | replace: ' lqip=', ' data-lqip="true" src=' %}
-
-    {% else %}
-      {% assign _wrapper_class = _wrapper_class | append: ' shimmer' %}
+  
     {% endif %}
 
     <!-- lazy-load images -->
