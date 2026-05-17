@@ -4,12 +4,11 @@
  * Dependencies: https://github.com/biati-digital/glightbox
  */
 
-const html = document.documentElement;
 const lightImages = '.popup:not(.dark)';
 const darkImages = '.popup:not(.light)';
 let selector = lightImages;
 
-function updateImages(current, reverse) {
+function swapImages(current, reverse) {
   if (selector === lightImages) {
     selector = darkImages;
   } else {
@@ -20,7 +19,7 @@ function updateImages(current, reverse) {
     reverse = GLightbox({ selector: `${selector}` });
   }
 
-  [current, reverse] = [reverse, current];
+  return [reverse, current];
 }
 
 export function imgPopup() {
@@ -33,27 +32,18 @@ export function imgPopup() {
     document.querySelector('.popup.dark') === null
   );
 
-  if (
-    (html.hasAttribute('data-mode') &&
-      html.getAttribute('data-mode') === 'dark') ||
-    (!html.hasAttribute('data-mode') &&
-      window.matchMedia('(prefers-color-scheme: dark)').matches)
-  ) {
+  if (Theme.visualState === Theme.DARK) {
     selector = darkImages;
   }
 
   let current = GLightbox({ selector: `${selector}` });
 
-  if (hasDualImages && document.getElementById('mode-toggle')) {
+  if (hasDualImages && Theme.switchable) {
     let reverse = null;
 
     window.addEventListener('message', (event) => {
-      if (
-        event.source === window &&
-        event.data &&
-        event.data.direction === ModeToggle.ID
-      ) {
-        updateImages(current, reverse);
+      if (event.source === window && event.data && event.data.id === Theme.ID) {
+        [current, reverse] = swapImages(current, reverse);
       }
     });
   }

@@ -11,6 +11,7 @@ lang: en
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/New_York
 
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
@@ -39,6 +40,8 @@ social:
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: MindlessTux
   email: mindlesstux@mindlesstux.com             # change to your email address
+  fediverse_handle:  "@mindlesstux@mindlesstux.com" # fill in your fediverse handle. E.g. "@username@domain.com"
+
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/mindlesstux       # change to your github homepage
@@ -227,8 +230,9 @@ exclude:
   - tools
   - README.md
   - LICENSE
+  - purgecss.js
   - "*.config.js"
-  - package*.json
+  - "package*.json"
 
 include: ["_pages", ".well-known","_redirects"]
 

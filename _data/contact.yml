@@ -22,6 +22,11 @@
   url:  'https://matrix.to/#/@mindlesstux:mindlesstux.com'                  # Fill with your matrix account page
   rel:  'noopener me'
 
+- type: xmpp
+  icon: 'fab fa-xmpp'   # icons powered by <https://fontawesome.com/>
+  url:  'xmpp:mindlesstux@mindlesstux.com'                  # Fill with your matrix account page
+  rel:  'noopener me'
+
 - type: reddit
   icon: 'fab fa-reddit'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.reddit.com/user/mindlesstux'                  # Fill with your matrix account page

@@ -100,7 +100,7 @@ Moon
 
 ## Footnote
 
-Click the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
+Clicking the hook will locate the footnote[^footnote], and here is another footnote[^fn-nth-2].
 
 ## Images
 
@@ -116,7 +116,8 @@ _Full screen width and center alignment_
 ![Window shadow](/posts/20190808/window.png){: .shadow width="1548" height="864" .w-75 }
 _shadow effect (visible in light mode)_
 
-```text
+<!-- markdownlint-disable-next-line MD040 -->
+```
 This is a common code snippet, without syntax highlight and line number.
 ```
 

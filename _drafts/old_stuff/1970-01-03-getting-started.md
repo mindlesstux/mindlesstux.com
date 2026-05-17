@@ -59,7 +59,7 @@ For Unix-like systems, you can set up the environment natively for optimal perfo
 1. Follow the [Jekyll installation guide](https://jekyllrb.com/docs/installation/) to install Jekyll and ensure [Git](https://git-scm.com/) is installed.
 2. Clone your repository to your local machine.
 3. If you forked the theme, install [Node.js][nodejs] and run `bash tools/init.sh` in the root directory to initialize the repository.
-4. Run command `bundle` in the root of your repository to install the dependencies.
+4. Run command `bundle install` in the root of your repository to install the dependencies.
 
 ## Usage
 
@@ -68,7 +68,7 @@ For Unix-like systems, you can set up the environment natively for optimal perfo
 To run the site locally, use the following command:
 
 ```terminal
-$ bundle exec jekyll s
+$ bundle exec jekyll serve
 ```
 
 > If you are using Dev Containers, you must run that command in the **VS Code** Terminal.
@@ -93,8 +93,6 @@ Social contact options are displayed at the bottom of the sidebar. You can enabl
 
 To customize the stylesheet, copy the theme's `assets/css/jekyll-theme-chirpy.scss`{: .filepath} file to the same path in your Jekyll site, and add your custom styles at the end of the file.
 
-Starting with version `6.2.0`, if you want to overwrite the SASS variables defined in `_sass/addon/variables.scss`{: .filepath}, copy the main SASS file `_sass/main.scss`{: .filepath} to the `_sass`{: .filepath} directory in your site's source, then create a new file `_sass/variables-hook.scss`{: .filepath} and assign your new values there.
-
 ### Customizing Static Assets
 
 Static assets configuration was introduced in version `5.1.0`. The CDN of the static assets is defined in `_data/origin/cors.yml`{: .filepath }. You can replace some of them based on the network conditions in the region where your website is published.
@@ -107,7 +105,7 @@ Before deploying, check the `_config.yml`{: .filepath} file and ensure the `url`
 
 Now you can choose _ONE_ of the following methods to deploy your Jekyll site.
 
-### Deploy Using Github Actions
+### Deploy Using GitHub Actions
 
 Prepare the following:
 

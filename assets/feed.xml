@@ -34,7 +34,7 @@ permalink: /feed.xml
     <updated>{{ post.date | date_to_xmlschema }}</updated>
   {% endif %}
     <id>{{ post_absolute_url }}</id>
-    <content src="{{ post_absolute_url }}" />
+    <content type="text/html" src="{{ post_absolute_url }}" />
     <author>
       <name>{{ post.author | default: site.social.name }}</name>
     </author>
@@ -49,7 +49,6 @@ permalink: /feed.xml
     <summary>{{ post.summary | strip }}</summary>
   {% else %}
     <summary>
-      {% include no-linenos.html content=post.content %}
       {{ content | split: "<!--readmore-->" | first | strip_html }}
     </summary>
   {% endif %}

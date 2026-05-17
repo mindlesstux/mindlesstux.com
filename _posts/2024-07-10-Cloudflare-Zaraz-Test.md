@@ -5,7 +5,7 @@ last_modified_at: '2024-07-18 15:40:00 -0400'
 author: MindlessTux
 layout: post
 Reference_URL:
-categories: CloudFlare
+categories: Cloudflare
 hidden: true
 ---
 

@@ -7,7 +7,7 @@ tags: [writing]
 render_with_liquid: false
 ---
 
-This post will guide you how to write a post on _Chirpy_ theme. Even if you have previous experience with Jekyll, this article is worth reading, because many features require specific variables to be set.
+This tutorial will guide you on how to write a post in the _Chirpy_ template, and it's worth reading even if you've used Jekyll before, as many features require specific variables to be set.
 
 ## Naming and Path
 
@@ -21,7 +21,7 @@ Basically, you need to fill the [Front Matter](https://jekyllrb.com/docs/front-m
 ---
 title: TITLE
 date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [TOP_CATEGORY, SUB_CATEGORY]
 tags: [TAG]     # TAG names should always be lowercase
 ---
 ```
@@ -97,7 +97,7 @@ toc: false
 
 ## Comments
 
-The global switch of comments is defined by variable `comments.active` in the file `_config.yml`{: .filepath}. After selecting a comment system for this variable, comments will be turned on for all posts.
+The global setting for comments is defined by the `comments.provider` option in the `_config.yml`{: .filepath} file. Once a comment system is selected for this variable, comments will be enabled for all posts.
 
 If you want to close the comment for a specific post, add the following to the **Front Matter** of the post:
 
@@ -173,7 +173,7 @@ By default, the image is centered, but you can specify the position by using one
 
 - **Normal position**
 
-  Image will be left aligned in below sample:
+  The image will be left aligned in the below sample:
 
   ```markdown
   ![Desktop View](/assets/img/sample/mockup.png){: .normal }
@@ -255,11 +255,9 @@ For normal images:
 ```
 {: .nolineno }
 
-### Video
+### Social Media Platforms
 
-#### Social Media Platform
-
-You can embed videos from social media platforms with the following syntax:
+You can embed video/audio from social media platforms with the following syntax:
 
 ```liquid
 {% include embed/{Platform}.html id='{ID}' %}
@@ -267,15 +265,21 @@ You can embed videos from social media platforms with the following syntax:
 
 Where `Platform` is the lowercase of the platform name, and `ID` is the video ID.
 
-The following table shows how to get the two parameters we need in a given video URL, and you can also know the currently supported video platforms.
+The following table shows how to get the two parameters we need in a given video/audio URL, and you can also know the currently supported video platforms.
 
-| Video URL                                                                                          | Platform   | ID             |
-| -------------------------------------------------------------------------------------------------- | ---------- | :------------- |
-| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg) | `youtube`  | `H-B46URT4mg`  |
-| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)         | `twitch`   | `1634779211`   |
-| [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf) | `bilibili` | `BV1Q44y1B7Wf` |
+| Video URL                                                                                                                  | Platform   | ID                       |
+| -------------------------------------------------------------------------------------------------------------------------- | ---------- | :----------------------- |
+| [https://www.**youtube**.com/watch?v=**H-B46URT4mg**](https://www.youtube.com/watch?v=H-B46URT4mg)                         | `youtube`  | `H-B46URT4mg`            |
+| [https://www.**twitch**.tv/videos/**1634779211**](https://www.twitch.tv/videos/1634779211)                                 | `twitch`   | `1634779211`             |
+| [https://www.**bilibili**.com/video/**BV1Q44y1B7Wf**](https://www.bilibili.com/video/BV1Q44y1B7Wf)                         | `bilibili` | `BV1Q44y1B7Wf`           |
+| [https://www.open.**spotify**.com/track/**3OuMIIFP5TxM8tLXMWYPGV**](https://open.spotify.com/track/3OuMIIFP5TxM8tLXMWYPGV) | `spotify`  | `3OuMIIFP5TxM8tLXMWYPGV` |
 
-#### Video Files
+Spotify supports some additional parameters:
+
+- `compact` - to display a compact player instead (ex. `{% include embed/spotify.html id='3OuMIIFP5TxM8tLXMWYPGV' compact=1 %}`);
+- `dark` - to force dark theme (ex. `{% include embed/spotify.html id='3OuMIIFP5TxM8tLXMWYPGV' dark=1 %}`).
+
+### Video Files
 
 If you want to embed a video file directly, use the following syntax:
 
@@ -288,7 +292,7 @@ Where `URL` is a URL to a video file e.g. `/path/to/sample/video.mp4`.
 You can also specify additional attributes for the embedded video file. Here is a full list of attributes allowed.
 
 - `poster='/path/to/poster.png'` — poster image for a video that is shown while video is downloading
-- `title='Text'` — title for a video that appears below the video and looks same as for images
+- `title='Text'` — title for a video that appears below the video and looks the same as for images
 - `autoplay=true` — video automatically begins to play back as soon as it can
 - `loop=true` — automatically seek back to the start upon reaching the end of the video
 - `muted=true` — audio will be initially silenced
@@ -309,7 +313,7 @@ Consider an example using all of the above:
 %}
 ```
 
-### Audios
+### Audio Files
 
 If you want to embed an audio file directly, use the following syntax:
 
@@ -321,7 +325,7 @@ Where `URL` is a URL to an audio file e.g. `/path/to/audio.mp3`.
 
 You can also specify additional attributes for the embedded audio file. Here is a full list of attributes allowed.
 
-- `title='Text'` — title for an audio that appears below the audio and looks same as for images
+- `title='Text'` — title for an audio that appears below the audio and looks the same as for images
 - `types` — specify the extensions of additional audio formats separated by `|`. Ensure these files exist in the same directory as your primary audio file.
 
 Consider an example using all of the above:
