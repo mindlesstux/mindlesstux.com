@@ -8,5 +8,5 @@
   "org.matrix.msc2965.authentication": {
     "issuer": "https://matrix-auth.mindlesstux.com/",
     "account": "https://matrix-auth.mindlesstux.com/account/"
-  },
+  }
 }
